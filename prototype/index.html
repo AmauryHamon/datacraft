@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Datacraft Map Prototype</title>
+		<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+	</head>
+	<body>
+		<main>
+			<div class="overflow-hidden relative h-screen w-screen">
+                
+				<!-- axis -->
+				<div class="z-10 absolute h-screen w-screen">
+					<div
+						class="absolute w-[1px] h-screen top-1/2 left-1/2 -translate-y-1/2 bg-black"
+					></div>
+					<div
+						class="absolute h-[1px] w-screen top-1/2 left-1/2 -translate-x-1/2 bg-black"
+					></div>
+
+					<div class="absolute top-4 left-1/2 -translate-x-1/2">
+						Emancipation
+					</div>
+					<div class="absolute bottom-4 left-1/2 -translate-x-1/2">
+						Productivity
+					</div>
+					<div class="absolute top-1/2 left-4 -translate-y-1/2">
+						Accessibility
+					</div>
+					<div class="absolute top-1/2 right-4 -translate-y-1/2">Effort</div>
+				</div>
+				<!-- nodes -->
+				<div class="nodecontainer z-20 absolute h-screen w-screen"></div>
+				<div
+					class="popover-container z-30 absolute h-screen w-screen pointer-events-none"
+				></div>
+				<div class="map-item hidden z-50 bg-white">
+					<article>
+						<header>
+							<h1>Datacraft Map Prototype</h1>
+							<p>Subtitle</p>
+						</header>
+						<section>
+
+                        </section>
+                        <aside>
+                            <h2>Related</h2>
+                            <ul>
+                                <li><a>Other node</a></li>
+                                <li>Productivity</li>
+                                <li>Accessibility</li>
+                                <li>Effort</li>
+                            </ul>
+                        </aside>
+					</article>
+				</div>
+			</div>
+		</main>
+		<script defer src="script.js"></script>
+	</body>
+</html>
