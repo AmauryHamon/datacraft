@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-h1 {
-    font-size: 2rem;
+@font-face {
+    font-family: 'Windsor';
+    src: url('../fonts/WindsorPro-BoldOutline.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Gerrit-M';
+    src: url('../fonts/SCGerrit-Medium.otf') format('opentype');
+}
 }
