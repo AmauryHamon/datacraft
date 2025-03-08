@@ -1,5 +1,5 @@
 <?php snippet('head') ?>
-    
-</body>
-</html>
-<h1 class="text-xl"><?= $page->title() ?></h1>
+
+    <?php snippet('axis')?>
+    <?php snippet('logo', ['showParagraph' => true])?>
+<?php snippet('end')?>
