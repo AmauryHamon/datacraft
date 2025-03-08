@@ -1,0 +1,11 @@
+title: About Page
+
+fields:
+  text:
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - definition-list
+
+  
