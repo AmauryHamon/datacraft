@@ -1,0 +1,13 @@
+name: Definition List
+icon: list-bullet
+fields:
+  items:
+    label: Definitions
+    type: structure
+    fields:
+      term:
+        label: Term
+        type: text
+      description:
+        label: Description
+        type: textarea
