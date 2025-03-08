@@ -1,5 +1,41 @@
 title: Site
 
+  
+
 sections:
   pages:
     type: pages
+
+  fields:
+    type: fields
+    fields:
+      tagline:
+        label: Tagline
+        type: text
+      footerlogotext:
+        label: Footer Logo Text
+        type: text
+      footerlogos:
+        label: Footer Logos
+        type: structure
+        fields:
+          image:
+            label: Image
+            type: files
+            accept: 
+              extension: png, svg
+            max: 1
+            required: true
+          url:
+            label: URL
+            type: url
+      footerlinks:
+        label: Footer Links
+        type: structure
+        fields:
+          text:
+            label: Text
+            type: text
+          url:
+            label: URL
+            type: url
