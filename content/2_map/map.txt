@@ -1,0 +1,21 @@
+Title: Map
+
+----
+
+Topaxis: Emancipation
+
+----
+
+Leftaxis: Accesibility
+
+----
+
+Rightaxis: Effort
+
+----
+
+Bottomaxis: Productivity
+
+----
+
+Uuid: ppP3CnyCjBY37D3O
