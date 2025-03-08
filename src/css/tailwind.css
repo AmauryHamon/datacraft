@@ -18,4 +18,20 @@
 body {
     @apply font-body text-xl leading-tight bg-lightgrey;
 }
+.block-type-heading{
+    @apply text-center;
+    & h1 {
+        @apply font-display py-16 text-6xl sm:text-8xl drop-shadow-logo;
+    }
+    & h2 {
+        @apply font-body text-4xl drop-shadow-logo
+    }
+}
+.block-type-text{
+    & p {
+        @apply mb-5 leading-[1.1]
+    }
+}
+.block-type-definition-list{
+    @apply font-normal;
 }
