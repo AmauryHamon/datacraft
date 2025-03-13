@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "template for kirby+alpine+tailwind",
   "private": true,
-	"scripts": {
-		"tw-dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/style.css --jit --content './site/**/*.php' -w",
-		"tw-build": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/style.css --jit --content './site/**/*.php' -m",
-		"ajs-dev": "npx esbuild ./src/js/main.js --outfile=assets/js/bundle.js --bundle --watch",
-		"ajs-build": "npx esbuild ./src/js/main.js --outfile=assets/js/bundle.js --bundle --minify",
-		"dev": "concurrently --kill-others \"npm run tw-dev\" \"npm run ajs-dev\"",
-		"build": "npm run tw-build && npm run ajs-build"
-	},
+  "scripts": {
+    "tw-dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/style.css --jit --content './site/**/*.php' -w",
+    "tw-build": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/style.css --jit --content './site/**/*.php' -m",
+    "ajs-dev": "npx esbuild ./src/js/main.js --outfile=assets/js/bundle.js --bundle --watch",
+    "ajs-build": "npx esbuild ./src/js/main.js --outfile=assets/js/bundle.js --bundle --minify",
+    "dev": "concurrently --kill-others \"npm run tw-dev\" \"npm run ajs-dev\"",
+    "build": "npm run tw-build && npm run ajs-build"
+  },
   "author": "amauryhamon",
   "license": "MIT",
   "dependencies": {
