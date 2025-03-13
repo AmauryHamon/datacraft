@@ -1,10 +1,9 @@
 title: Map Page
 
 columns:
-  main:
-    width: 2/3
+  - width: 1/2
     sections:
-      fields:
+      main:
         type: fields
         fields:
           topaxis:
@@ -19,3 +18,24 @@ columns:
           bottomaxis:
             label: Bottom Axis
             type: text
+  - width: 1/2
+    sections:
+      nodes:
+        type: fields
+        fields:
+          nodes:
+            label: Nodes
+            type: structure
+            fields:
+              title:
+                label: Title
+                type: writer
+                inline: true
+                nodes: false
+              x:
+                label: X
+                type: number
+              y:
+                label: Y
+                type: number
+
