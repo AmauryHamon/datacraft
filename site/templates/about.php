@@ -10,6 +10,8 @@
         <?php endforeach ?>
     </div>
 <?php endif ?>
-<?php snippet('logo', ['showParagraph' => false])?>
+<div class="opacity-20">
+    <?php snippet('logo', ['showParagraph' => false])?>
+</div>
 <?php snippet('footer')?>
 <?php snippet('end') ?>
