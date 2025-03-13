@@ -1,3 +1,6 @@
+@view-transition {
+    navigation: auto;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -17,6 +20,7 @@
 
 body {
     @apply font-body text-xl leading-tight bg-lightgrey;
+    overscroll-behavior: none;
 }
 .block-type-heading{
     @apply text-center;
