@@ -18,4 +18,13 @@ Bottomaxis: Productivity
 
 ----
 
+Nodes:
+
+- 
+  title: Test
+  x: 25
+  y: 75
+
+----
+
 Uuid: ppP3CnyCjBY37D3O
