@@ -14,7 +14,8 @@ module.exports = {
         body: 'Gerrit-M',
       },
       dropShadow: {
-        'logo': '0 0 15px #00ff00'
+        'logo': '0 0 15px #00ff00',
+        'text': '0 0 25px rgba(0,255,0,0.25)',
       },
       backgroundSize: {
         'size-200': '100% 200%',
@@ -23,6 +24,10 @@ module.exports = {
         'pos-0': '0% 70%',
         'pos-100': '0% 50%',
       },
+      lineHeight: {
+        'tight': '1.1',
+        'ultratight': '0.9'
+      }
 
 
     },
