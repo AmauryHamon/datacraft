@@ -1,0 +1,117 @@
+title: Node
+fields:
+  title:
+    label: Title
+    type: text
+  category:
+    label: Category
+    type: select
+    options:
+      - Project
+      - Person
+      - Recipe
+      - Workshop
+      - Historical
+  xpos:
+    width: 1/6
+    label: X Position
+    type: number
+  ypos:
+    width: 1/6
+    label: Y Position
+    type: number
+  date: 
+    width: 1/6
+    label: Date
+    type: date
+  authors:
+    width: 1/2
+    label: Authors
+    type: text
+  concept:
+    accept: all
+    width: 1/2
+    label: Concept
+    type: multiselect
+    options:
+      simulation: Simulation
+      gan: GAN
+      doppelganger: Doppelgänger
+      hallucination: Hallucination
+      collection: Collection
+      worldbuilding: Worldbuilding
+      chance: Chance
+      training: Training
+      combinatory: Combinatory
+      grammar: Grammar
+      generative: Generative
+      classifier: Classifier
+      txt: TXT
+      prompt: Prompt
+      latentspace: Latent Space
+      creativecoding: Creative Coding
+      recursivity: Recursivity
+      tool: Tool
+      weights: Weights
+      scanning: Scanning
+      transformer: Transformer
+      completion: Completion
+  tools:
+    accept: all
+    width: 1/2
+    label: Tools
+    type: multiselect
+    options:
+      - LLM
+      - GAN
+      - Unity
+      - Web Technologies
+      - VR
+      - YOLOv5
+      - Roboflow
+      - Midjourney
+      - Stable Diffusion
+      - Huggingface
+  synop: 
+    label: Synopsis
+    type: textarea
+  input:
+    width: 1/3
+    label: Input / Type of dataset
+    type: text
+  formula:
+    width: 1/3
+    label: Formula / Method
+    type: text
+  output:
+    width: 1/3
+    label: Output / Result
+    type: text
+  context:
+    width: 1/2
+    label: Context
+    type: text
+  text:
+    label: Additional information
+    type: textarea
+  links:
+    width: 1/2
+    label: Links
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url
+      text:
+        label: Text
+        type: writer
+        inline: true
+        nodes: false
+  alt:
+    width: 1/2
+    label: Alt
+    type: text
+  images:
+    label: Images
+    type: files
+    size: large
