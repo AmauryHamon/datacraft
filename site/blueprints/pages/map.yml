@@ -21,21 +21,8 @@ columns:
   - width: 1/2
     sections:
       nodes:
-        type: fields
-        fields:
-          nodes:
-            label: Nodes
-            type: structure
-            fields:
-              title:
-                label: Title
-                type: writer
-                inline: true
-                nodes: false
-              x:
-                label: X
-                type: number
-              y:
-                label: Y
-                type: number
+        type: pages
+        template: node
+        
+        
 
