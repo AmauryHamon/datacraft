@@ -50,5 +50,5 @@ body {
     @apply font-normal;
 }
 .cardtag {
-    @apply text-xs p-1 border border-black hover:text-green hover:border-green
+    @apply capitalize text-xs p-1 border border-black hover:text-green hover:border-green
 }
