@@ -1,0 +1,85 @@
+Title: Archive of lost mothers
+
+----
+
+Category: Project
+
+----
+
+Xpos: 85
+
+----
+
+Ypos: 92
+
+----
+
+Date: 2023-01-01
+
+----
+
+Authors: Computational Mama
+
+----
+
+Concept: worldbuilding
+
+----
+
+Tools: Midjourney, Stable Diffusion, Huggingface
+
+----
+
+Synop: This project has been created using generative AI tools. The work speculates about the existence of post-human mothers and birthing through AI generated images. The images seemingly appear archival yet clearly seem fictional at their edges. Can we generate our own archives with AI? Can we train AI to build scenarios of lost/un-occurred histories with our own images and objects.
+
+----
+
+Input: Prompt, collection of images
+
+----
+
+Formula: The artist used AI image generation tools like Midjourney and Stable Diffusion to create surreal, futuristic images of "post-human moms" with evolved features like multiple arms or tentacles. She then crafted narratives around these images, initially writing the stories herself before training an AI to generate them.
+
+----
+
+Output: Fictional archive
+
+----
+
+Context: 
+
+----
+
+Text: The artist aimed to explore the "silences" and absences in AI representations of motherhood, particularly from non-Western perspectives. By creating surreal, evolved mothers, she sought to speculate on how motherhood might adapt to impossible demands. The project also serves as a commentary on AI biases and the potential loss of diverse representations as AI image generation becomes more prevalent. The interactive nature of the archive invites viewers to engage with these ideas and contribute their own perspectives.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://archiveoflostmothers.in/index.html
+  text: Project Website
+- 
+  url: >
+    https://computationalmama.xyz/projects/lostmothers/
+  text: Project details
+- 
+  url: 'https://huggingface.co/computational-mama?sort_models=alphabetical#models'
+  text: Huggingface
+- 
+  url: >
+    https://gooey.ai/chat/measuring-silences-B49/?fbclid=PAZXh0bgNhZW0CMTEAAaa3XLc6APFckv1liL_DXRKFpnydT3GSC_uYxxMbbhCJZ8_QIlLd8Dd7iZ0_aem_j-5yh4LittbQPrrZZPhfvA
+  text: Gooey AI
+
+----
+
+Alt: AI generated images from the archive of lost mothers, computational mama, 2023
+
+----
+
+Images: 
+
+----
+
+Uuid: 42D9ncGZqLHu4ZUx

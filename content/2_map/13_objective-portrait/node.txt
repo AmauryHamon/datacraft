@@ -1,0 +1,84 @@
+Title: Objective Portrait
+
+----
+
+Category: Project
+
+----
+
+Xpos: 91
+
+----
+
+Ypos: 15
+
+----
+
+Date: 2022-01-01
+
+----
+
+Authors: Vera van der Burg & Gijs de Boer
+
+----
+
+Concept: training
+
+----
+
+Tools: 
+
+----
+
+Synop: This project explores whether a differently trained object recognition algorithm can help to understand such relations. If we explicitly train an algorithm on someone’s personal values, can it capture something of their particular way of seeing? While an objec recognition algorithm usually tries to learn the definition of an object, we explore the potential for a subject recognition algorithm: can an AI learn to see the value and meaning of an object for someone?
+
+----
+
+Input: A collection of images annoted with subjective labels according to the personal values of each curator. Number of images ranged from 378 to 120.
+
+----
+
+Formula: AI as a reflective design partner. A play with biais, a connection between the maker of the training and its resulat. Three designers annotate a collection of images representing their fascinations, with subjective labels, indicating different dimensions of their visual concepts. These labels are used to teach an object detection model the designers’ perspectives. Then, they used this trained model on their own design work to evaluate the AI’s potential to prompt self-reflection.
+
+----
+
+Output: Installation
+
+----
+
+Context: Dutch Design week
+
+----
+
+Text:
+
+“Collecting a dataset is a tedious task, because you need a lot images. However, collecting a bunch of images that fascinate you feels actually less tedious, because I really enjoy looking at them. It feels a bit like creating an archive of your interests, which I as a designer tend to do anyways in my practice, for inspiration” 
+- Vera van der Burg
+
+----
+
+Links:
+
+- 
+  url: https://veravanderburg.nl/
+  text: "Vera van der Burg's website"
+- 
+  url: >
+    https://dl.acm.org/doi/pdf/10.1145/3563657.3595974
+  text: >
+    van der Burg, Vera, Gijs de Boer, Almila
+    Akdag Salah, Senthil Chandrasegaran, and
+    Peter Lloyd. "Title of the Article."
+    Journal Name Volume(Issue) (2024)
+
+----
+
+Alt: Objective Portrait, Installation, Dutch Design Week, 2022 Vera van der Burg and Gijs de Boer
+
+----
+
+Images: 
+
+----
+
+Uuid: ZAt8RR6Aar07vRu8

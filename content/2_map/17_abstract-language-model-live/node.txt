@@ -1,0 +1,85 @@
+Title: Abstract Language Model (Live)
+
+----
+
+Category: Project
+
+----
+
+Xpos: 67
+
+----
+
+Ypos: 42
+
+----
+
+Date: 2022-01-01
+
+----
+
+Authors: Andreas Lutz
+
+----
+
+Concept: training
+
+----
+
+Tools: 
+
+----
+
+Synop: Abstract Language Model consists of complex data models containing the translation of all available human sign systems as equally representable, machine-created states. Through extraction and interpolation of these artificially created semiotic systems a transitionless universal language originates, which can be seen as a trans-human / trans-machine language.
+
+----
+
+Videos:
+
+- 
+  url: >
+    https://vimeo.com/803965982?turnstile=0.bAMpIGsaxX0aeu7GBsfKsO7msbCwGSlQySvBe6UsrrAc3z_L1i3e-ymEM-KbrbNvGHmqRRMm_4zygETK7Qn6RPqUeuGv_Nm7CObD9e6siMJsjYqGhh2xTJXRa9gHwMDnGvg1c6iT1AWYgXSUQ61S76m2nveU_rMPSUa1BL7Z2c9gAjD37f6dGRIX1kwpT2Z-Z7OVFUbmbHOqexRDbUwg6D85JFaqtodX-NCK5UECeCBNbRSY_XDn25Z1C4TJGqzvpoGAftk5qjgPF2QTCYN8sGG-pTkaE2QVL2ibxmSp83mka1LBY58YBiu3AfW5wNNh2nyJSHfBHtLGgrbWfOXzvz4HV6SMX_Pd3XbV-JQP48Yf75aqq9RvBwM4nIWiH4CJTKSDQ5R1f4-Hng9uKNTWgU4IULtSSn5OWXctS0GGhJaLB5XhG-sktHNXbOmq8DVTVhxG4Beo96aAboNV_U7jNWk1lxtCxwe0b_7rd5IAiqxE809l62OS4ryxBrNKpfbgQTS16lXSpnNMqZeaNPR-iZJPNqUKfdhRcv5jLmUYyPmSYd11nN9kVhy0uLxBNq_vWVxpWBHrS4f5Z5fEj8Xe9ftcXMqDWyxQG_jNmowWNud3iBhzgDcI_C31jGcJAVNjJmR20sXGZOZKXKs0KnDrofZW1IF6OMkYu0J1mHqptSGVvIh4rKtShf0RzJZbJqoIN7nSj7FKXYIPl65Kxx4dd8e-SX3utMKfz8JMA9EMZzKks4R2z5oiBAponcm6YFXlyyx9RWDVL2nMqO5RooxqsHNH_4gIwsY-d7eoEIBb_V1alok7ufiX1_Q-XI2KmcQOS3GxN19kcpopf6KhpDmsgA.HQALSBDVJ2VSAvMvuUlGfw.b8758d9bb5f81874f57bcabc11fb305456c72506526e367e5289b8b8901be644
+
+----
+
+Input: An artificial neural network was trained with the entire charactersets represented in the Unicode Standard
+
+----
+
+Formula: 
+
+----
+
+Output: Live AV performance
+
+----
+
+Context: 
+
+----
+
+Text: 
+
+----
+
+Links:
+
+- 
+  url: https://andreaslutz.com/monolith-yw-alm/
+  text: Project details
+- 
+  url: >
+    https://andreaslutz.com/abstract-language-model/
+  text: Project details
+
+----
+
+Alt: In situ at WeSA AudioVisual Festival in Jeju, Jeju / South Korea, 2024 (Photos by Danny Arens)
+
+----
+
+Images: 
+
+----
+
+Uuid: NZdafh3agC3zRcRi

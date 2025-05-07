@@ -1,0 +1,80 @@
+Title: I KNEW THAT IF I WALKED IN YOUR FOOTSTEPS, IT WOULD BECOME A RITUAL
+
+----
+
+Category: Project
+
+----
+
+Xpos: 45
+
+----
+
+Ypos: 26
+
+----
+
+Date: 2021-01-01
+
+----
+
+Authors: AARATI AKKAPEDDI
+
+----
+
+Concept: gan
+
+----
+
+Tools: 
+
+----
+
+Synop: A machine learning model based on the artist family photographs that is able to create its own images that combine and emulate characteristics of their family photos.
+
+----
+
+Input: Personal family photo
+
+----
+
+Formula: trained GAN on personal images
+
+----
+
+Output: Images, Video, Cyanolumen Prints
+
+----
+
+Context: Center for Book Arts
+
+----
+
+Text: The form of this work is a video piece and series of prints. For the video, family members were asked to speak about specific photographs. Images generated from the machine learning model are animated using footage from these interviews. The facial expressions mimic the original expressions of the family member and the audio is from their original voice. The photographs that are the subject of the interviews are also shown alongside the speaker. Surrounding the video, are prints of the generated images mixed with actual family photographs.
+
+----
+
+Links:
+
+- 
+  url: https://aarati.online/ritual.html
+  text: Website
+- 
+  url: https://vimeo.com/721567723
+  text: Video
+- 
+  url: >
+    https://docs.google.com/document/d/13auFC4LawO6rWaiUpcCemWiSTE7hZNCEUB_G9-dRprQ/edit?tab=t.0
+  text: Google Doc
+
+----
+
+Alt: I KNEW THAT IF I WALKED IN YOUR FOOTSTEPS, IT WOULD BECOME A RITUAL, AARATI AKKAPEDDI, 2021
+
+----
+
+Images: 
+
+----
+
+Uuid: JKxQqWWmofS3q7Rd
