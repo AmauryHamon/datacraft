@@ -18,7 +18,7 @@
                     <div
                         class="text-base group-hover:text-green"
                         x-text="message"></div>
-                    <h3 class="text-xs" x-text="node.title"></h3>
+                    <h3 class="text-xs max-w-[25ch] text-center mx-auto" x-text="node.title"></h3>
                     <?php snippet('popover') ?>
                 </a>
             </template>
