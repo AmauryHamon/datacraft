@@ -9,7 +9,7 @@
             <template x-for="node in nodes" :key="node.title">
                 <a
                     href=""
-                    class="select-none absolute flex flex-col justify-center items-center group drop-shadow-logo"
+                    class="select-none absolute hover:z-[100] flex flex-col justify-center items-center group drop-shadow-logo"
                     :style="'top: ' + node.ypos + '%; left: ' + node.xpos + '%;'"
                     x-data="{ message: '○', popover: false }"
                     @mouseenter.prevent="message = '●'; popover = true"
