@@ -1,0 +1,77 @@
+Title: Tibetan Sand Mandalas
+
+----
+
+Category: Historical
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Date: 
+
+----
+
+Authors: 
+
+----
+
+Concept: generative
+
+----
+
+Tools: 
+
+----
+
+Synop: 
+
+----
+
+Videos: 
+
+----
+
+Input: 
+
+----
+
+Formula: 
+
+----
+
+Output: 
+
+----
+
+Context: 
+
+----
+
+Text: 
+
+----
+
+Links:
+
+- 
+  url: 'https://www.thlib.org/encyclopedias/literary/wiki/Chapter%20By%20Chapter%20Summary%20-%20The%20Blue%20Annals.html'
+  text: thlib
+
+----
+
+Alt: 
+
+----
+
+Images: 
+
+----
+
+Uuid: sglgvimyoidkhkZI

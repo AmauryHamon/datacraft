@@ -1,0 +1,73 @@
+Title: Encyclopédie
+
+----
+
+Category: Historical
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Date: 1751-01-01
+
+----
+
+Authors: Diderot & d’Alembert
+
+----
+
+Concept: classifier
+
+----
+
+Tools: 
+
+----
+
+Synop: 
+
+----
+
+Videos: 
+
+----
+
+Input: 
+
+----
+
+Formula: 
+
+----
+
+Output: 
+
+----
+
+Context: 
+
+----
+
+Text: 
+
+----
+
+Links: 
+
+----
+
+Alt: 
+
+----
+
+Images: 
+
+----
+
+Uuid: IyceZAIzOnT7sZBF
