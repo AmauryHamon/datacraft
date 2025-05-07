@@ -4,6 +4,7 @@ fields:
     label: Title
     type: text
   category:
+    width: 1/6
     label: Category
     type: select
     options:
@@ -25,12 +26,13 @@ fields:
     label: Date
     type: date
   authors:
-    width: 1/2
+    width: 1/3
     label: Authors
     type: text
   concept:
     accept: all
     width: 1/2
+
     label: Concept
     type: multiselect
     options:
@@ -75,27 +77,41 @@ fields:
   synop: 
     label: Synopsis
     type: textarea
+  videos:
+    label: Videos
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url
+
   input:
-    width: 1/3
+    width: 1/4
     label: Input / Type of dataset
-    type: text
+    type: writer
+    nodes: false
+    inline: true
   formula:
-    width: 1/3
+    width: 1/4
     label: Formula / Method
-    type: text
+    type: writer
+    nodes: false
+    inline: true
   output:
-    width: 1/3
+    width: 1/4
     label: Output / Result
-    type: text
+    type: writer
+    nodes: false
+    inline: true
   context:
-    width: 1/2
+    width: 1/4
     label: Context
     type: text
   text:
     label: Additional information
     type: textarea
   links:
-    width: 1/2
+    width: 1/3
     label: Links
     type: structure
     fields:
@@ -108,10 +124,13 @@ fields:
         inline: true
         nodes: false
   alt:
-    width: 1/2
+    width: 1/3
     label: Alt
-    type: text
+    type: writer
+    nodes: false
+    inline: true
   images:
+    width: 1/3
     label: Images
     type: files
     size: large
