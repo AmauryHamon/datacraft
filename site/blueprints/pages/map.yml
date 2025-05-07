@@ -1,28 +1,43 @@
 title: Map Page
 
 columns:
-  - width: 1/2
+  - width: 1/1
     sections:
       main:
         type: fields
         fields:
           topaxis:
+            width: 1/4
             label: Top Axis
             type: text
           leftaxis:
+            width: 1/4
             label: Left Axis
             type: text
           rightaxis:
+            width: 1/4
             label: Right Axis
             type: text
           bottomaxis:
+            width: 1/4
             label: Bottom Axis
             type: text
-  - width: 1/2
+  - width: 1/1
     sections:
       nodes:
+
         type: pages
         template: node
+        text: "{{page.category}} | {{page.title}} | {{page.date}}" 
+
+          
+      # artists:
+      #   type: pages
+      #   template: node
+      #   create: false
+
+
+
         
         
 
