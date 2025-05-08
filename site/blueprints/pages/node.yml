@@ -77,7 +77,7 @@ fields:
   synop: 
     label: Synopsis
     type: textarea
-  videos:
+  nodevideos:
     label: Videos
     type: structure
     fields:
