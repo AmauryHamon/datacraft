@@ -14,14 +14,18 @@ foreach($page->children() as $node){
         'formula'=>$node->formula()->value(),
         'output'=>$node->output()->value(),
         'context'=>$node->context()->value(),
-        'links'=>$node->links()->toStructure()->map(fn($link) => [
+        'links'=>$node->links()->toStructure()?->map(fn($link) => [
             'url'=>$link->url()->value(),
             'text'=>$link->text()->value()
-        ])->values(), 
+        ])->values() ?? [], 
         'images'=>$node->images()->map(fn($image) => $image->url())->values(),
         'alt'=>$node->alt()->value(),
         'text'=>$node->text()->value(),
-        'synop'=>$node->synop()->value()
+        'synop'=>$node->synop()->value(),
+        'nodevideos'=>$node->nodevideos()->toStructure()?->map(fn($video) => [
+            'url'=>$video->url()->value(),
+            'text'=>$video->text()->value(),
+        ])->values() ?? [], 
     ];
 }
-echo json_encode($nodes, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+echo json_encode($nodes, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
