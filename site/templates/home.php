@@ -1,0 +1,8 @@
+<?php snippet('head') ?>
+<?php snippet('nav')?>
+<main class="min-h-[calc(100vh-96px)] ">
+    <?php snippet('axis')?>
+    <?php snippet('logo', ['showParagraph' => true])?>
+    
+    <?php snippet('subpage') ?>
+<?php snippet('end')?>
