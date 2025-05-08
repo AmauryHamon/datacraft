@@ -8,7 +8,7 @@
     x-transition:leave="transition ease-in duration-300"
     x-transition:leave-start="opacity-100 scale-100"
     x-transition:leave-end="opacity-0 scale-100"
-    @click="modal = false">
+    @click.outside="modal = false">
     <div
         class="bg-lightgrey p-6 shadow-lg max-w-xl w-full relative flex flex-col gap-8"
         @click.stop>
