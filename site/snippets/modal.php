@@ -81,8 +81,8 @@
                 <h3 id="links" class="text-2xl/tight">External Links</h3>
                 <ul class="flex flex-wrap gap-2">
                     <!-- <template x-for="link in selectedNode.links"> -->
-                    <li><a href="" x-text="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
-                    <li><a href="" x-text="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
+                    <li><a href="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
+                    <li><a href="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
 
 
                     <!-- </template> -->
