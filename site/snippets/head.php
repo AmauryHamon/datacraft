@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>datacraft</title>
+    <title>Datacraft</title>
     <?= css('assets/css/style.css') ?>
 </head>
-<body x-data="site" :class="modal ? 'bg-ultralightgreen' : 'bg-lightgrey'">
+<body x-data="site" class="bg-lightgrey">
 
-<?php snippet('nav')?>
-<main class="min-h-screen">
