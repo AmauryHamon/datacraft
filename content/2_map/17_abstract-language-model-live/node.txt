@@ -34,11 +34,11 @@ Synop: Abstract Language Model consists of complex data models containing the tr
 
 ----
 
-Videos:
+Nodevideos:
 
 - 
   url: >
-    https://vimeo.com/803965982?turnstile=0.bAMpIGsaxX0aeu7GBsfKsO7msbCwGSlQySvBe6UsrrAc3z_L1i3e-ymEM-KbrbNvGHmqRRMm_4zygETK7Qn6RPqUeuGv_Nm7CObD9e6siMJsjYqGhh2xTJXRa9gHwMDnGvg1c6iT1AWYgXSUQ61S76m2nveU_rMPSUa1BL7Z2c9gAjD37f6dGRIX1kwpT2Z-Z7OVFUbmbHOqexRDbUwg6D85JFaqtodX-NCK5UECeCBNbRSY_XDn25Z1C4TJGqzvpoGAftk5qjgPF2QTCYN8sGG-pTkaE2QVL2ibxmSp83mka1LBY58YBiu3AfW5wNNh2nyJSHfBHtLGgrbWfOXzvz4HV6SMX_Pd3XbV-JQP48Yf75aqq9RvBwM4nIWiH4CJTKSDQ5R1f4-Hng9uKNTWgU4IULtSSn5OWXctS0GGhJaLB5XhG-sktHNXbOmq8DVTVhxG4Beo96aAboNV_U7jNWk1lxtCxwe0b_7rd5IAiqxE809l62OS4ryxBrNKpfbgQTS16lXSpnNMqZeaNPR-iZJPNqUKfdhRcv5jLmUYyPmSYd11nN9kVhy0uLxBNq_vWVxpWBHrS4f5Z5fEj8Xe9ftcXMqDWyxQG_jNmowWNud3iBhzgDcI_C31jGcJAVNjJmR20sXGZOZKXKs0KnDrofZW1IF6OMkYu0J1mHqptSGVvIh4rKtShf0RzJZbJqoIN7nSj7FKXYIPl65Kxx4dd8e-SX3utMKfz8JMA9EMZzKks4R2z5oiBAponcm6YFXlyyx9RWDVL2nMqO5RooxqsHNH_4gIwsY-d7eoEIBb_V1alok7ufiX1_Q-XI2KmcQOS3GxN19kcpopf6KhpDmsgA.HQALSBDVJ2VSAvMvuUlGfw.b8758d9bb5f81874f57bcabc11fb305456c72506526e367e5289b8b8901be644
+    https://https://www.youtube.com/embed/xCJIDvmyKO8?si=cybDIan_7TR9cVL1
 
 ----
 
@@ -79,6 +79,13 @@ Alt: In situ at WeSA AudioVisual Festival in Jeju, Jeju / South Korea, 2024 (Pho
 ----
 
 Images: 
+
+----
+
+Videos:
+
+- 
+  url: https://www.youtube.com/watch?v=xCJIDvmyKO8&list=RDxCJIDvmyKO8&index=1&ab_channel=Andr%C3%A9NavarroII
 
 ----
 

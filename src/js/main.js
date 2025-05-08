@@ -5,8 +5,13 @@ window.Alpine = Alpine
 
 Alpine.data("site", () => ({
     modal: false,
+    selectedNodeSlug: null,
     init(){
-        console.log("site init")
+        this.$el.addEventListener('open-modal', e => {
+            this.modal = true
+            this.selectedNodeSlug = e.detail.node; // Set the selected node to be used in the modal
+            history.pushState(null, '', '?node=' + this.selectedNodeSlug)
+        })
     }
 }))
 Alpine.data("map", () => ({
@@ -16,8 +21,9 @@ Alpine.data("map", () => ({
     selectedNode: {},
 
     init(){
-        this.fetchNodes()
-        console.log("map init")
+        
+        
+
 
     },
     async fetchNodes(){
@@ -30,9 +36,11 @@ Alpine.data("map", () => ({
             console.error("Error loading nodes:", error);
         }
     },
-    openModal(node) {
-        this.selectedNode = node;
-        this.modal = true;
+    openModal(nodeSlug) {
+        console.log("Opening modal for node:", nodeSlug);
+        
+        this.$dispatch('open-modal', { node: nodeSlug });
+
     }
 }))
 

@@ -6,5 +6,8 @@ return [
         'https://datacraft.amauryhamon.com',
         'https://datacraft.test'
     ],
+    'api' => [
+        'allowInsecure' => true
+    ]
     
 ];

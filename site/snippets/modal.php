@@ -1,4 +1,54 @@
-<div
+
+
+<?php if ($selected = param('node')): ?>
+  <?php $node = $page->children()->find($selected) ?>
+  <?php if ($node): ?>
+    <div class="modal"
+        x-show="modal"
+        class="no-scrollbar fixed top-20 left-16 bottom-16 flex gap-4 items-start justify-start z-50 drop-shadow-logo overflow-y-auto overflow-x-visible"
+
+        x-transition:enter="transition ease-out duration-300 delay-300"
+        x-transition:enter-start="opacity-0 scale-100"
+        x-transition:enter-end="opacity-100 scale-100"
+        x-transition:leave="transition ease-in duration-300"
+        x-transition:leave-start="opacity-100 scale-100"
+        x-transition:leave-end="opacity-0 scale-100"
+        @click="$root.modal = false; history.pushState(null, '', window.location.pathname)"
+
+    >
+      <figure>
+        <?php if ($image = $node->image()): ?>
+          <img src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
+          <figcaption><?= $image->alt() ?></figcaption>
+        <?php endif ?>
+      </figure>
+
+      <h2><?= $node->title() ?></h2>
+      <p><?= $node->authors() ?>, <?= $node->date() ?></p>
+
+      <section>
+        <h3>Synopsis</h3>
+        <div><?= $node->synopsis()->kt() ?></div>
+      </section>
+
+      <section>
+        <h3>Videos</h3>
+        <?php foreach ($node->videos()->toStructure() as $video): ?>
+          <?php if ($embed = video($video->url())): ?>
+            <div class="aspect-video">
+              <?= $embed ?>
+            </div>
+          <?php endif ?>
+        <?php endforeach ?>
+      </section>
+
+      <!-- and so on... -->
+    </div>
+  <?php endif ?>
+<?php endif ?>
+
+
+<!-- <div
     x-show="modal"
     class="no-scrollbar fixed top-20 left-16 bottom-16 flex gap-4 items-start justify-start z-50 drop-shadow-logo overflow-y-auto overflow-x-visible"
 
@@ -34,20 +84,18 @@
                 <pre x-text="JSON.stringify(selectedNode.nodevideos, null, 2)"></pre>
 
                 <template x-for="video in selectedNode.nodevideos" :key="video.url">
-                    
-                        <div class="w-full max-w-xl aspect-video">
-                            <iframe
-                                class="w-full h-full"
-                                :src="video.url"
-                                frameborder="0"
-                                allowfullscreen></iframe>
-                        </div>
-                    
-
-                    
+                    <div class="w-full max-w-xl aspect-video">
+                        <iframe 
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/xCJIDvmyKO8?si=cybDIan_7TR9cVL1" 
+                            title="YouTube video player" 
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                            referrerpolicy="strict-origin-when-cross-origin" 
+                            allowfullscreen>
+                        </iframe>
+                    </div>                    
                 </template>
-
-
 
             </div>
 
@@ -82,11 +130,11 @@
 
                 </div>
             </template>
-            <!-- <template x-if="selectedNode.related"> -->
+
             <div class="border-t border-lightgreen py-4 flex flex-col gap-4">
                 <h3 class="text-2xl/tight">Related</h3>
                 <ul class="flex flex-wrap gap-2">
-                    <!-- <template> -->
+
                     <li>
                         <a
                             href=""
@@ -100,23 +148,16 @@
                             <h3 class="text-xs">test</h3>
                         </a>
                     </li>
-                    <!-- </template> -->
+
                 </ul>
             </div>
-            <!-- </template> -->
-            <!-- <template x-if="selectedNode.links"> -->
             <div class="border-t border-lightgreen py-4 flex flex-col gap-4">
                 <h3 id="links" class="text-2xl/tight">External Links</h3>
                 <ul class="flex flex-wrap gap-2">
-                    <!-- <template x-for="link in selectedNode.links"> -->
                     <li><a href="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
                     <li><a href="" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank">test</a></li>
-
-
-                    <!-- </template> -->
                 </ul>
             </div>
-            <!-- </template> -->
         </div>
 
     </div>
@@ -152,4 +193,4 @@
             </ul>
         </div>
     </div>
-</div>
+</div> -->
