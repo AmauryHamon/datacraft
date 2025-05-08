@@ -28,6 +28,34 @@
             <h3>Synopsis</h3>
             <div x-text="selectedNode.synop" class="drop-shadow-text"></div>
         </div>
+        <div id="videos" class="border-t border-lightgreen py-4 flex flex-col gap-4">
+            <h3>Videos</h3>
+            <div class="flex flex-col gap-4">
+                <pre x-text="JSON.stringify(selectedNode.nodevideos, null, 2)"></pre>
+
+                <template x-for="video in selectedNode.nodevideos" :key="video.url">
+                    
+                        <div class="w-full max-w-xl aspect-video">
+                            <iframe
+                                class="w-full h-full"
+                                :src="video.url"
+                                frameborder="0"
+                                allowfullscreen></iframe>
+                        </div>
+                    
+
+                    
+                </template>
+
+
+
+            </div>
+
+
+
+
+
+        </div>
         <div class="flex flex-col gap-8">
             <div id="formula" class="flex flex-col">
                 <div class="relative z-[55] text-center border border-green p-8 flex flex-col gap-4 pb-16">
