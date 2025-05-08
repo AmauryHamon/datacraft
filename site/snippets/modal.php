@@ -109,10 +109,10 @@
         </div>
         <div class="bg-lightgrey p-4 text-xs">
             <ul class="flex flex-wrap gap-x-2 gap-y-4">
-                <li> <a href="" class="cardtag" @click.stop x-text="selectedNode.concept"></a></li>
-                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.category"></a></li>
-                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.tools"></a></li>
-                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.context"></a></li>
+                <li> <a href="" class="cardtag" @click.stop x-text="selectedNode.concept" x-show="selectedNode.concept && selectedNode.concept.length > 0"></a></li>
+                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.category" x-show="selectedNode.concept && selectedNode.category.length > 0"></a></li>
+                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.tools" x-show="selectedNode.concept && selectedNode.tools.length > 0"></a></li>
+                <li><a href="" class="cardtag" @click.stop x-text="selectedNode.context" x-show="selectedNode.concept && selectedNode.context.length > 0"></a></li>
             </ul>
         </div>
         <div class="bg-lightgrey p-4">
