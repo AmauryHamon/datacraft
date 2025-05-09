@@ -6,5 +6,5 @@
     <title>Datacraft</title>
     <?= css('assets/css/style.css') ?>
 </head>
-<body x-data="site" class="bg-lightgrey">
+<body x-data="site" :class="modalOpen ? 'bg-ultralightgreen' : 'bg-lightgrey'">
 
