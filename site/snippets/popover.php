@@ -1,15 +1,22 @@
 <div
                 x-show="popover"
                 
-                class="absolute z-[100] p-2 max-w-96 bg-white text-black shadow-md rounded-md flex gap-2"
-                x-bind:style="'top: calc(' + node?.ypos + '% + 1.5rem); left: ' + node?.xpos + '%;'"
+                class="absolute  p-2 w-96 bg-white text-black shadow-md rounded-md flex gap-2"
+                
                 x-transition:enter="transition ease-out delay-500 duration-150"
                 x-transition:enter-start="opacity-0 scale-100"
                 x-transition:enter-end="opacity-100 scale-100"
                 x-transition:leave="transition ease-in duration-300"
                 x-transition:leave-start="opacity-100 scale-100"
                 x-transition:leave-end="opacity-0 scale-100"
-            >
+                :class="{ 
+                    '-translate-x-[calc(50%+2rem)] -translate-y-[calc(50%+2rem)]': node.xpos > 50 && node.ypos > 50,
+                    'translate-x-[calc(50%+2rem)] -translate-y-[calc(50%+2rem)]': node.xpos < 50 && node.ypos > 50,
+                    '-translate-x-[calc(50%+2rem)] translate-y-[calc(50%+2rem)]': node.xpos > 50 && node.ypos < 50,
+                    'translate-x-[calc(50%+2rem)] translate-y-[calc(50%+2rem)]': node.xpos < 50 && node.ypos < 50
+                }"
+                
+                >
 
                 <div class="flex w-48" x-show="node?.images">
                     <img class="object-cover aspect-square" :src="node?.images" alt="">
