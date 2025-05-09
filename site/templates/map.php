@@ -1,7 +1,7 @@
-<?php snippet('head') ?>
-<?php snippet('axis') ?>
-<?php snippet('axis-labels') ?>
-<div>
+<?php if ($category !== 'Historical'): ?>
+    <?php snippet('axis') ?>
+    <?php snippet('axis-labels') ?>
+<?php endif ?>
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
     <div class="fixed z-50 top-10 left-1/2 -translate-x-1/2">
         <ul class="flex gap-4">
