@@ -5,16 +5,22 @@
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
     <div class="fixed z-50 top-10 left-1/2 -translate-x-1/2">
         <ul class="flex gap-4">
-            <button>Projects</button>
-            <button>Legacy</button>
-            <button>Recipes</button>
-            <button class="">…</button>
+            <li>
+                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Project'})" :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Projects</a>
+            </li>
+            <li>
+                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Historical'})" :class="$router.query.c === 'Historical' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Legacy</a>
+            </li>
+            <li>
+                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Recipe'})" :class="$router.query.c === 'Recipe' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Recipes</a>
+            </li>
+            
         </ul>
     </div>
     <?php if ($page->children()->isNotEmpty()): ?>
         <div class="fixed inset-0 w-full h-screen z-40">
 
-            <?php foreach ($page->children()->listed()->values() as $index => $node): ?>
+            <?php foreach ($nodes->values() as $index => $node): ?>
                 <a
                     href="<?= $node->url() ?>"
                     x-link

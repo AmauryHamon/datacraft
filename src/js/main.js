@@ -36,9 +36,11 @@ Alpine.data("site", () => ({
 			}
 		});
 	},
-	updateMap() {
-		this.loadPage(this.$router.path + "?nodes=" + this.$router.query.c);
-	},
+	
+    filterMap(){
+        this.loadPage(this.$router.path + "?c=" + this.$router.query.c)
+    },
+
 	async loadPage(uid, asModal = false) {
 		let page = await fetch(uid, {
 			headers: {
@@ -49,7 +51,6 @@ Alpine.data("site", () => ({
 		if (asModal) {
 			this.modalContent = html;
 			this.modalOpen = true;
-			console.log("asModal", this.modalContent, this.modalOpen);
 		} else {
 			this.subpage = uid;
 			this.subpagedata = html;
