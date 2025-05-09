@@ -103,12 +103,12 @@
             <p class="text-gray-400 text-xs">Lorem ipsum I code my own AI</p>
             <label for="A-E" class="flex flex-col gap-1">
                 <span>Accessibility</span>
-                <input type="range" name="A-E" id="A-E" min="0" max="100" :value="selectedNode.xpos" step="1" disabled>
+                <input type="range" name="A-E" id="A-E" min="0" max="100" value="<?=$page->xpos()?>" step="1" disabled>
                 <span>Effort</span>
             </label>
             <label for="A-E" class="flex flex-col gap-1">
                 <span>Emancipation</span>
-                <input type="range" name="E-P" id="E-P" min="0" max="100" step="1" :value="selectedNode.ypos" disabled>
+                <input type="range" name="E-P" id="E-P" min="0" max="100" step="1" value="<?=$page->ypos()?>" disabled>
                 <span>Productivity</span>
             </label>
         </div>
