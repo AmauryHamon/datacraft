@@ -6,6 +6,14 @@ Category: Project
 
 ----
 
+Cover: 
+
+----
+
+Authors: Crosslucid
+
+----
+
 Xpos: 42
 
 ----
@@ -14,11 +22,23 @@ Ypos: 53
 
 ----
 
-Date: 2025-04-20
+Datetype: period
 
 ----
 
-Authors: Crosslucid
+Dateperiodstart: 2024-01-01
+
+----
+
+Dateperiodend: 2025-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
 
 ----
 
@@ -31,6 +51,10 @@ Tools: LLM
 ----
 
 Synop: Red The Ocean Around U is a commission by LAS Art Foundation, in symbiotic collaboration with the sci-fi writer Orion Facey. Accessible on LAS website until December 2025, this distinctive online experience invites participants into an immersive and continuously evolving narrative ecosystem, highlighting the notion of games as a poetic manipulation of agency.
+
+----
+
+Nodevideos: 
 
 ----
 
@@ -78,6 +102,18 @@ Alt: Red The Ocean Around U (2024), Crosslucid
 ----
 
 Images: - file://H3zvgArtCdGH5HNK
+
+----
+
+Historical: 
+
+----
+
+Recipe: 
+
+----
+
+Date: 2025-04-20
 
 ----
 
