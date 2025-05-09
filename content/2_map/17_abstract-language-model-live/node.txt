@@ -38,7 +38,7 @@ Nodevideos:
 
 - 
   url: >
-    https://https://www.youtube.com/embed/xCJIDvmyKO8?si=cybDIan_7TR9cVL1
+    https://www.youtube.com/embed/xCJIDvmyKO8?si=cybDIan_7TR9cVL1
 
 ----
 
