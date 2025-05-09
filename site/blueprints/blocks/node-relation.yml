@@ -1,0 +1,15 @@
+name: Node Relation
+icon: list-bullet
+fields:
+  links:
+    label: Liens
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: select
+        options: query
+        query: page.parent.children.index
+      text:
+        label: Texte
+        type: text

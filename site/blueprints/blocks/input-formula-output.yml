@@ -1,0 +1,21 @@
+name: Definition List
+icon: list-bullet
+fields:
+  input:
+    width: 1/3
+    label: Input / Type of dataset
+    type: writer
+    nodes: false
+    inline: true
+  formula:
+    width: 1/3
+    label: Formula / Method
+    type: writer
+    nodes: false
+    inline: true
+  output:
+    width: 1/3
+    label: Output / Result
+    type: writer
+    nodes: false
+    inline: true

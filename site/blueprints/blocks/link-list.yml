@@ -1,0 +1,14 @@
+name: Link List
+icon: list-bullet
+fields:
+  links:
+    label: Liens
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url
+      text:
+        label: Texte
+        type: text
+        help: Optional – will override the Node title
