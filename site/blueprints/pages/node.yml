@@ -4,31 +4,81 @@ fields:
     label: Title
     type: text
   category:
-    width: 1/6
     label: Category
-    type: select
+    type: toggles
     options:
       - Project
-      - Person
       - Recipe
-      - Workshop
       - Historical
-  xpos:
-    width: 1/6
-    label: X Position
-    type: number
-  ypos:
-    width: 1/6
-    label: Y Position
-    type: number
-  date: 
-    width: 1/6
-    label: Date
-    type: date
+  line:
+    type: line
+  cover:
+    width: 1/3
+    label: Cover image
+    type: files
+    size: large
+    max: 1
+    accept:
+      - image/*
   authors:
     width: 1/3
     label: Authors
     type: text
+  xpos:
+    width: 1/6
+    label: Map X Position
+    type: number
+  ypos:
+    width: 1/6
+    label: Map Y Position
+    type: number
+
+  line2:
+    type: line
+
+  datetype:
+    width: 1/2
+    type: toggles
+    label: Date type
+    options:
+      - year
+      - period
+      - text
+    default: year
+  dateperiodstart:
+    width: 1/4
+    when:
+      datetype: period
+    label: Start Date period
+    type: date
+    display: YYYY
+    calendar: false
+  dateperiodend:
+    width: 1/4
+    when:
+      datetype: period
+    label: End Date period
+    type: date
+    display: YYYY
+    calendar: false
+  datetext:
+    width: 1/2
+    when:
+      datetype: text
+    label: Text-based Date
+    type: text
+    help: "e.g. 11th century"
+  year: 
+    when: 
+      datetype: year 
+    width: 1/6
+    label: Year
+    type: date
+    calendar: false
+
+  line3:
+    type: line
+  
   concept:
     accept: all
     width: 1/2
@@ -74,6 +124,8 @@ fields:
       - Midjourney
       - Stable Diffusion
       - Huggingface
+  line4:
+    type: line
   synop: 
     label: Synopsis
     type: textarea
@@ -134,3 +186,32 @@ fields:
     label: Images
     type: files
     size: large
+  historical:
+    when:
+      category: Historical
+    label: Historical blocks
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - list
+      - image
+      - video
+      - definition-list
+      - link-list
+      - node-relation
+
+  recipe:
+    when:
+      category: Recipe
+    label: Recipe blocks
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - list
+      - image
+      - video
+      - definition-list
+      - link-list
+      - node-relation
