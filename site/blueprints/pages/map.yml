@@ -38,6 +38,13 @@ columns:
         text: "{{page.category}} | {{page.title}} | {{page.date}}"
   - width: 1/1
     sections:  
+      recipes:
+        query: page.index.filterBy('category', 'Recipe')
+        type: pages
+        template: node
+        text: "{{page.category}} | {{page.title}} | {{page.date}}"
+  - width: 1/1
+    sections:  
       uncat:
         label: Uncategorized
         query: page.index.filterBy('category', '')
