@@ -1,0 +1,109 @@
+Title: The inquisitive mind
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://8gsqaIih0yH90lgY
+
+----
+
+Authors: oio Studio
+
+----
+
+Xpos: 25
+
+----
+
+Ypos: 27
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2024-01-01
+
+----
+
+Concept: collection
+
+----
+
+Tools: 
+
+----
+
+Context: Mudac Lausanne
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Inquis­it­ive minds listen, look, scan, and ask ques­tions. They feed off all those little elements that we do not think of archiv­ing – that they glean from the inter­net, from docu­ments sent by design­ers or from conver­sa­tions they engage in. They will do this in partic­u­lar during the exhib­i­tion, always on the lookout, during inter­views with design­ers from French-speak­ing Switzer­land that are part of the programme; they will conduct them in tandem with the mudac curat­ors.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"Audio and texts","formula":"Live audio dataset with documents and information from the WEB","output":"Interviews"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Under the direc­tion of Scott Long­fel­low, the artists of studio oio immersed them­selves in the work­ings and vision of mudac and the wider land­scape of French-speak­ing Switzer­land by inter­view­ing over 20 local design­ers, arch­iv­ists, and tech­no­logy experts. This year-long resid­ency gave rise to the Archivives project, designed as an archiv­ing system that collects docu­ments and inter­views to explore, using arti­fi­cial intel­li­gence, the unpre­ced­en­ted possib­il­it­ies of what archiv­ing in the future could look like. New tools for enrich­ing and diver­si­fy­ing archived data have been developed to take account of the context in which design projects are developed and how they are perceived, partic­u­larly by differ­ent audi­ences.<br><br>The project first takes the form of inter­act­ive inter­views with design­ers in the exhib­i­tion hall, conduc­ted by both a member of the museum’s curat­orial team and AI. This process explores how the digital archives selec­ted and trans­mit­ted by the design­ers can be enriched through inter­ac­tion with AI.<br>At the same time, studio oio spec­u­lates on the possib­il­it­ies offered by AI and, at the end of the inter­views, offers a digital poster for a mono­graphic exhib­i­tion that imagines what an exhib­i­tion on design might look like in 10 to 15 years’ time.<br><br>The Archivives project is made up of two tools: Le Curieux and Le Rêveur, the fruit of oio’s resid­ency at mudac and developed as part of the Archives du Design Roman exhib­i­tion.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://mudac.ch/en/article/studio-oio-and-artificial-intelligence/","text":"MUDAC website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2024-01-01
+
+----
+
+Synop: Inquis­it­ive minds listen, look, scan, and ask ques­tions. They feed off all those little elements that we do not think of archiv­ing – that they glean from the inter­net, from docu­ments sent by design­ers or from conver­sa­tions they engage in. They will do this in partic­u­lar during the exhib­i­tion, always on the lookout, during inter­views with design­ers from French-speak­ing Switzer­land that are part of the programme; they will conduct them in tandem with the mudac curat­ors.
+
+----
+
+Input: Audio and texts
+
+----
+
+Formula: Live audio dataset with documents and information from the WEB
+
+----
+
+Output: Interviews
+
+----
+
+Text:
+
+Under the direc­tion of Scott Long­fel­low, the artists of studio oio immersed them­selves in the work­ings and vision of mudac and the wider land­scape of French-speak­ing Switzer­land by inter­view­ing over 20 local design­ers, arch­iv­ists, and tech­no­logy experts. This year-long resid­ency gave rise to the Archivives project, designed as an archiv­ing system that collects docu­ments and inter­views to explore, using arti­fi­cial intel­li­gence, the unpre­ced­en­ted possib­il­it­ies of what archiv­ing in the future could look like. New tools for enrich­ing and diver­si­fy­ing archived data have been developed to take account of the context in which design projects are developed and how they are perceived, partic­u­larly by differ­ent audi­ences.
+
+The project first takes the form of inter­act­ive inter­views with design­ers in the exhib­i­tion hall, conduc­ted by both a member of the museum’s curat­orial team and AI. This process explores how the digital archives selec­ted and trans­mit­ted by the design­ers can be enriched through inter­ac­tion with AI.
+At the same time, studio oio spec­u­lates on the possib­il­it­ies offered by AI and, at the end of the inter­views, offers a digital poster for a mono­graphic exhib­i­tion that imagines what an exhib­i­tion on design might look like in 10 to 15 years’ time.
+
+The Archivives project is made up of two tools: Le Curieux and Le Rêveur, the fruit of oio’s resid­ency at mudac and developed as part of the Archives du Design Roman exhib­i­tion.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://mudac.ch/en/article/studio-oio-and-artificial-intelligence/
+  text: Mudac website
+
+----
+
+Alt: The inquisitive mind, oio studio, 2024
+
+----
+
+Images: 
+
+----
+
+Uuid: saKRgV0PI4sO9SRL

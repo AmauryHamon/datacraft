@@ -1,0 +1,114 @@
+Title: Once upon a garden
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://IUSkq4ZeOeygsCkG
+
+----
+
+Authors: Linda Dounia Rebeiz
+
+----
+
+Xpos: 82
+
+----
+
+Ypos: 76
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 2021-01-01
+
+----
+
+Dateperiodend: 2024-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: hallucination
+
+----
+
+Tools: 
+
+----
+
+Context: Various exhibitions and commisions
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Once Upon A Garden is a speculative archive of critically endangered and extinct flora that we have little to no records of, and therefore no way to remember. In this project, I use Artificial Intelligence as a time machine to go back in time and piece together data about flowers we didn’t bother recording using data that we did record.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"url":"https://vimeo.com/1014516540","caption":""},"id":"18f2b3ba-17c6-464e-b363-33a860a91b24","isHidden":false,"type":"video"},{"content":{"input":"records of extinct and critically endangered flora from the Sahel region of West Africa, as classified by the International Union for Conservation of Nature. This means photographic records from the internet (seldom available), photographic records from physical archives (national archives, family photo books, journals, etc.), herbarium records, encyclopaedic records, and academic records. From these records, individual species are identified and tagged with all available information about it (texts and images).","formula":"Chapter 1: trained a GAN on real and imagined visual records of extinct and critically endangered flora from the Sahel region of West Africa.<br>Chapter 2: text-to-image diffusion. Using the text data gathered at the onset of the project as prompt, I endeavoured to bring more life into the GAN outputs.<br>Chapter 3: compare different diffusion models using a similar approach to Chapter II, starting with text data from the initial database for the project, and using the GAN to Text-to-Image pipeline outputs as reference images. <br>Chapter 4: Starting in the fourth chapter though, I start the process of rewilding this body of work and increasing entropy. First, lossiness is added to flowers from the fourth chapter by adding non-organic materials to their make-up. Second, gardens from the first chapter are re-explored through wilder and more chaotic floral arrangements. <br><br>Through an Image-to-Image pipeline, flowers are corrupted","output":"50 emergent species of speculative flora in West Africa across 5 chapters"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>To be able to fill gaps in the world’s collective memory with synthetic memory is a unique opportunity that AI offers today. Between 2021 and now, Once Upon A Garden has speculated on what the flora population in West Africa (where I am from and lives) might have looked like decades ago using increasingly faster and more refined models. <br><br>The resulting body of work, while increasingly more photo-realistic as AI became more powerful over the years, cannot be mistaken for reality due to the thin and fragmented data available for training. Global efforts to record disappearing biodiversity have not been consistent across time and geographies. In some places, when interrogating what’s been lost, we have no photographic records and can only rely on herbarium records dating back to colonial expeditions. <br><br>Once Upon A Garden ultimately makes a case for more even efforts in recording biodiversity loss across the globe. It also shows an alternative use of AI that demonstrates how this technology can hold a mirror to what we care to remember and therefore record. Incidentally, this mirror also shows us what gets left behind in the making of an increasingly more influential tool in our lives and societies.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"url":"https://vimeo.com/1019386571","caption":""},"id":"beb5f97c-9f2e-45ca-9800-caeaa3058659","isHidden":false,"type":"video"},{"content":{"links":[{"url":"https://lindarebeiz.com/once-upon-a-garden","text":"Linda Rebeiz website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2024-01-01
+
+----
+
+Synop: Once Upon A Garden is a speculative archive of critically endangered and extinct flora that we have little to no records of, and therefore no way to remember. In this project, I use Artificial Intelligence as a time machine to go back in time and piece together data about flowers we didn’t bother recording using data that we did record.
+
+----
+
+Input: records of extinct and critically endangered flora from the Sahel region of West Africa, as classified by the International Union for Conservation of Nature. This means photographic records from the internet (seldom available), photographic records from physical archives (national archives, family photo books, journals, etc.), herbarium records, encyclopaedic records, and academic records. From these records, individual species are identified and tagged with all available information about it (texts and images).
+
+----
+
+Formula: Chapter 1:  trained a GAN on real and imagined visual records of extinct and critically endangered flora from the Sahel region of West Africa. Chapter 2: text-to-image diffusion. Using the text data gathered at the onset of the project as prompt, I endeavoured to bring more life into the GAN outputs. Chapter 3: compare different diffusion models using a similar approach to Chapter II, starting with text data from the initial database for the project, and using the GAN to Text-to-Image pipeline outputs as reference images.  Chapter 4: Starting in the fourth chapter though, I start the process of rewilding this body of work and increasing entropy. First, lossiness is added to flowers from the fourth chapter by adding non-organic materials to their make-up. Second, gardens from the first chapter are re-explored through wilder and more chaotic floral arrangements.   Through an Image-to-Image pipeline, flowers are corrupted
+
+----
+
+Output: 50 emergent species of speculative flora in West Africa across 5 chapters
+
+----
+
+Text:
+
+To be able to fill gaps in the world’s collective memory with synthetic memory is a unique opportunity that AI offers today. Between 2021 and now, Once Upon A Garden has speculated on what the flora population in West Africa (where I am from and lives) might have looked like decades ago using increasingly faster and more refined models. 
+
+The resulting body of work, while increasingly more photo-realistic as AI became more powerful over the years, cannot be mistaken for reality due to the thin and fragmented data available for training. Global efforts to record disappearing biodiversity have not been consistent across time and geographies. In some places, when interrogating what’s been lost, we have no photographic records and can only rely on herbarium records dating back to colonial expeditions. 
+
+Once Upon A Garden ultimately makes a case for more even efforts in recording biodiversity loss across the globe. It also shows an alternative use of AI that demonstrates how this technology can hold a mirror to what we care to remember and therefore record. Incidentally, this mirror also shows us what gets left behind in the making of an increasingly more influential tool in our lives and societies.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://lindarebeiz.com/once-upon-a-garden
+  text: Project Details
+- 
+  url: https://vimeo.com/1014516540
+  text: Video 1
+- 
+  url: https://vimeo.com/1019386571
+  text: Video 2
+
+----
+
+Alt: Synthetic Rot, 2024, Linda Dounia Rebeiz
+
+----
+
+Images: 
+
+----
+
+Uuid: WRsx1WTez5wyYXVF

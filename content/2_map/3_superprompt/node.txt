@@ -1,0 +1,108 @@
+Title: Superprompt
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://OrugPsSaBwPDjjpS
+
+----
+
+Authors: Sarah Rothberg
+
+----
+
+Xpos: 28
+
+----
+
+Ypos: 45
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2023-01-01
+
+----
+
+Concept: doppelganger
+
+----
+
+Tools: Unity, Web Technologies, LLM, VR
+
+----
+
+Context: Various contexts and performances
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Superprompt is a body of work made in 2023 about conversation in the evolving landscape of spatial computing and artificial intelligence. SUPERPROMPT takes form as custom software (built using unity, web technologies, large language models, and VR) used to produce livestreamed avatar performances, interactive installation, and video.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"url":"https://www.youtube.com/watch?v=bkzbvmjOMUQ","caption":""},"id":"2efa9155-7a35-4d46-9bdf-9d7e1d7bb2f8","isHidden":false,"type":"video"},{"content":{"input":"Motion capture, large language models","formula":"N/A","output":"Generated avatars"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Central to SUPERPROMPT is an avatar that is sometimes inhabited by me, sometimes by anonymous guests (as an extension of the work NEW MEETINGS), and sometimes by a conversational large language model (which I named “Sophie” after a conversation in which ChatGPT had hallucinated a performance I had done for the Whitney 2019 biennial by the same name).</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://sarahrothberg.com/SUPERPROMPT","text":"Sarah Rothberg website"},{"url":"https://sarahrothberg.com/NEW-MEETINGS","text":"Sarah Rothberg website – New Meetings"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2023-01-01
+
+----
+
+Synop: is a body of work made in 2023 about conversation in the evolving landscape of spatial computing and artificial intelligence. SUPERPROMPT takes form as custom software (built using unity, web technologies, large language models, and VR) used to produce livestreamed avatar performances, interactive installation, and video.
+
+----
+
+Input: Motion capture, large language models
+
+----
+
+Formula: 
+
+----
+
+Output: Generated avatars
+
+----
+
+Text: Central to SUPERPROMPT is an avatar that is sometimes inhabited by me, sometimes by anonymous guests (as an extension of the work NEW MEETINGS), and sometimes by a conversational large language model (which I named “Sophie” after a conversation in which ChatGPT had hallucinated a performance I had done for the Whitney 2019 biennial by the same name).
+
+----
+
+Links:
+
+- 
+  url: https://sarahrothberg.com/SUPERPROMPT
+  text: Website
+- 
+  url: >
+    https://www.youtube.com/watch?v=bkzbvmjOMUQ
+  text: Video
+- 
+  url: https://sarahrothberg.com/NEW-MEETINGS
+  text: New Meetings
+
+----
+
+Alt: Superprompt, Sarah Rothberg, 2023
+
+----
+
+Images: 
+
+----
+
+Uuid: JTxzZHEAW1xOS2YZ

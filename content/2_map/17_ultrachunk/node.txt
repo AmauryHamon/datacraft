@@ -1,0 +1,105 @@
+Title: Ultrachunk
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://u3Dnnm82JC1xnsaK
+
+----
+
+Authors: Memo Akten, Jennifer Walsche
+
+----
+
+Xpos: 29
+
+----
+
+Ypos: 72
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2018-01-01
+
+----
+
+Concept: doppelganger
+
+----
+
+Tools: 
+
+----
+
+Context: Created as part of Memo Akten's PhD at Goldsmiths, University of London, funded by the EPSRC UK.
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>ULTRACHUNK is a collaboration between performer Jennifer Walshe, and artist Memo Akten. At once surreal, spellbinding and deeply alarming, ULTRACHUNK is a live improvisational duet between a classically-trained musician and her AI doppelganger.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"Voice and video (webcam)","formula":"Over the course of a year, Irish vocalist and composer Walshe engaged in a daily ritual of performing solo improvisations in front of her webcam. Collecting the hours of footage on the other end, computational artist Akten used the video and audio material to create and train a machine learning driven system that can mimic the key components of Walshe’s identity – her voice and face.","output":"Live performance"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"links":[{"url":"https://www.rewirefestival.nl/artist/jennifer-walshe-memo-akten","text":"Rewire festival website"},{"url":"https://www.memo.tv/works/ultrachunk/","text":"Memo Akten website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2018-01-01
+
+----
+
+Synop: ULTRACHUNK is a collaboration between performer Jennifer Walshe, and artist Memo Akten. At once surreal, spellbinding and deeply alarming, ULTRACHUNK is a live improvisational duet between a classically-trained musician and her AI doppelganger.
+
+----
+
+Input: Voice and video (webcam)
+
+----
+
+Formula: Over the course of a year, Irish vocalist and composer Walshe engaged in a daily ritual of performing solo improvisations in front of her webcam. Collecting the hours of footage on the other end, computational artist Akten used the video and audio material to create and train a machine learning driven system that can mimic the key components of Walshe’s identity – her voice and face.
+
+----
+
+Output: Live performance
+
+----
+
+Text: 
+
+----
+
+Links:
+
+- 
+  url: >
+    https://www.rewirefestival.nl/artist/jennifer-walshe-memo-akten
+  text: Rewire festival website
+- 
+  url: https://www.memo.tv/works/ultrachunk/
+  text: Project details
+
+----
+
+Alt: 
+
+----
+
+Images: 
+
+----
+
+Uuid: 8aG3e5iWAU9RTKnT

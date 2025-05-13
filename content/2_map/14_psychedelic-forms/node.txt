@@ -1,0 +1,111 @@
+Title: Psychedelic Forms
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://Nv776w7lUjPYm28c
+
+----
+
+Authors: Varvara & Mar
+
+----
+
+Xpos: 36
+
+----
+
+Ypos: 85
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2022-01-01
+
+----
+
+Concept: chance
+
+----
+
+Tools: 
+
+----
+
+Context: Espacio Open residency program and Cultural Endowment of Estonia.
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Psychedelic Forms is a series of sculptures that explore deep learning (DL) possibilities for creating a form guided by text prompt and 3D model. The selected generated digital 3D objects were then manually altered and prepared for 3D printing in ceramics. Glazing happened by hand, often inspired by the digital model’s AI-generated vertex colors.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"N/A","formula":"Text prompt and 3D model qnd chance into the DL quotation","output":"3D printed ceramic sculptures glazed by hand"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Psychedelic refers to unexpected or unexplored imagination that the human eye has not seen before. Although the original input was well-known antient sculptures, like Venus, the AI model was capable of sytilising the mesh with the inputted text prompt in such a way that the new form was hardly recognisible. <br><br>As we know, DL is known for the vast amount of content generation with its own style and aesthetic, which feels repetitive in the long run. However, it is impossible to achieve exact repetition from the same input. In the case of this project, the repetition was further destroyed or made impossible by adding material, physical forces, and chance into the quotation.<br><br>As a result, the neuro-avant-garde mixed with artisan techniques and processes offered irregular transformations that contribute to creativity and imagination augmentation. In other words, irregular mutations can lead to new creations that would not happen otherwise.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://var-mar.info/psychedelic-forms/","text":"Varvara & Mar website"},{"url":"https://www.flickr.com/photos/mcanet/albums/72177720299890759/","text":"Flickr website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2022-01-01
+
+----
+
+Synop: Psychedelic Forms is a series of sculptures that explore deep learning (DL) possibilities for creating a form guided by text prompt and 3D model. The selected generated digital 3D objects were then manually altered and prepared for 3D printing in ceramics. Glazing happened by hand, often inspired by the digital model’s AI-generated vertex colors.
+
+----
+
+Input: 
+
+----
+
+Formula: Text prompt and 3D model qnd chance into the DL quotation
+
+----
+
+Output: 3D printed ceramic sculptures glazed by hand
+
+----
+
+Text:
+
+Psychedelic refers to unexpected or unexplored imagination that the human eye has not seen before. Although the original input was well-known antient sculptures, like Venus, the AI model was capable of sytilising the mesh with the inputted text prompt in such a way that the new form was hardly recognisible. 
+
+As we know, DL is known for the vast amount of content generation with its own style and aesthetic, which feels repetitive in the long run. However, it is impossible to achieve exact repetition from the same input. In the case of this project, the repetition was further destroyed or made impossible by adding material, physical forces, and chance into the quotation.
+
+As a result, the neuro-avant-garde mixed with artisan techniques and processes offered irregular transformations that contribute to creativity and imagination augmentation. In other words, irregular mutations can lead to new creations that would not happen otherwise.
+
+----
+
+Links:
+
+- 
+  url: https://var-mar.info/psychedelic-forms/
+  text: Project details
+- 
+  url: >
+    https://www.flickr.com/photos/mcanet/albums/72177720299890759/
+  text: Flickr
+
+----
+
+Alt: Psychedelic forms, Varara & Mar, 2022
+
+----
+
+Images: 
+
+----
+
+Uuid: cRKxJaQ1cnH6tMfL

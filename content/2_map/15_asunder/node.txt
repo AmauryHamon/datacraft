@@ -1,0 +1,108 @@
+Title: Asunder
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://htoroBFCo1txMeKV
+
+----
+
+Authors: Tega Brain, Julian Oliver, and Bengt Sjölén
+
+----
+
+Xpos: 15
+
+----
+
+Ypos: 59
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2020-01-01
+
+----
+
+Concept: simulation
+
+----
+
+Tools: 
+
+----
+
+Context: Asunder was commissioned by the MAK for the VIENNA BIENNALE 2019. Asunder was commissioned by the MAK for the VIENNA BIENNALE 2019. 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Asunder responds to a growing interest in the application of AI to critical environmental challenges by situating this approach as a literal proposition, combining state of the art climate and environmental simulation technology, a 144 CPU super-computer and Machine Learning image-making techniques. The result is a fictional 'environmental manager' that proposes and simulates future alterations to the planet to keep it safely within planetary boundaries, with what are often completely unacceptable or absurd results. In doing so, Asunder questions assumptions of computational neutrality, our increasingly desperate reach for techno-solutionist fixes to planetary challenges, and the broader ideological framing of the environment as a system.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"Satellite maps, climate modeling data","formula":"Custom-trained climate model","output":"N/A"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Satellite, climate, geology, biodiversity and topography for a series of terrestrial regions is used to generate an ever evolving series of environmental management plans where human and non-human agendas are combined and weighted in different ways. A central argument made by those encouraging the uptake of AI, is that data driven systems can depoliticize or neutralize decision making. Extended to the context of ecosystems, this could imply that ecological agendas are prioritized over human goals (and over the status quo where human systems of production are preserved at the expense of everything else).<br><br>The work is structured into discrete simulations for different regions, positioning ecosystem as computational surface. As cities are relocated, nations combined, coastlines straightened or rivers moved, the work shifts between humorous to proposterous, from uncannily eco-fetishistic to tediously bureaucratic.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://asunder.earth/","text":"Asunder website"},{"url":"https://tegabrain.com/Asunder","text":"Tega Brain website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2020-01-01
+
+----
+
+Synop: Asunder responds to a growing interest in the application of AI to critical environmental challenges by situating this approach as a literal proposition, combining state of the art climate and environmental simulation technology, a 144 CPU super-computer and Machine Learning image-making techniques. The result is a fictional 'environmental manager' that proposes and simulates future alterations to the planet to keep it safely within planetary boundaries, with what are often completely unacceptable or absurd results. In doing so, Asunder questions assumptions of computational neutrality, our increasingly desperate reach for techno-solutionist fixes to planetary challenges, and the broader ideological framing of the environment as a system.
+
+----
+
+Input: Satellite maps, climate modelling data
+
+----
+
+Formula: Custom-trained climate model
+
+----
+
+Output: 3D printed ceramic sculptures glazed by hand
+
+----
+
+Text:
+
+Satellite, climate, geology, biodiversity and topography for a series of terrestrial regions is used to generate an ever evolving series of environmental management plans where human and non-human agendas are combined and weighted in different ways. A central argument made by those encouraging the uptake of AI, is that data driven systems can depoliticize or neutralize decision making. Extended to the context of ecosystems, this could imply that ecological agendas are prioritized over human goals (and over the status quo where human systems of production are preserved at the expense of everything else).
+
+The work is structured into discrete simulations for different regions, positioning ecosystem as computational surface. As cities are relocated, nations combined, coastlines straightened or rivers moved, the work shifts between humorous to proposterous, from uncannily eco-fetishistic to tediously bureaucratic.
+
+----
+
+Links:
+
+- 
+  url: https://asunder.earth/
+  text: Website
+- 
+  url: https://tegabrain.com/Asunder
+  text: "Tega Brain's website"
+
+----
+
+Alt: Exhibition views from the The Eternal Network, Transmediale 2020. Photography by Luca Girardini, CC NC-SA 4.0.
+
+----
+
+Images: 
+
+----
+
+Uuid: 4QdEIb0e4OTqvSaD

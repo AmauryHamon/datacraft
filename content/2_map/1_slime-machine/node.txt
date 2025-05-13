@@ -1,0 +1,131 @@
+Title: Slime machine
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://cbcIHm0GSxJel4WK
+
+----
+
+Authors: Mathilde Sartori
+
+----
+
+Xpos: 62
+
+----
+
+Ypos: 54
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2024-01-01
+
+----
+
+Concept: simulation
+
+----
+
+Tools: 
+
+----
+
+Context: Diploma project
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>This research explores the concept of intelligence, the view of machines and their relationship in a more than human way.</p><p>The focus of my research is slime mould, and in particular the Physarum Polycephalum species, a non-binary, decentralized, random organism used as a model for thinking about and then developing a new form of computing.</p><p>I begin by rethinking intelligence, challenging the brain-centric view that has dominated our society and trying to understand it in all its forms, trying to remove the anthropocentric lens and analyze it in its more-than-human forms. Then, I examine how machines can be reimagined, designing new relationships and better ways to coexist with non-human entities, following an ecology of technology.</p><p>The research includes the development of a computer vision algorithm inspired by the behavior of slime moulds, with a focus on edge detection. This algorithm, aaardm.py, starts from randomness and searches for solutions rather than predicting them, providing a philosophical and practical framework for a more ecological and inclusive form of computing.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"the Physarum Polycephalum species, a non-binary, decentralized, random organism","formula":"Development of a computer vision algorithm inspired by the behavior of slime moulds, with a focus on edge detection","output":"a new form of computing"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Through this research I wanted to demonstrate that there are other ways of doing technology, that integrate with the more-than-human world in an harmoniously way, keeping nature at the center of the process and that the conception of a new form of computing is not only material in nature, but refers back to a new way of thinking.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://matildee3.github.io/matilde/project/slime.html","text":"Github project website"},{"url":"https://archive.org/details/slime_machines/page/n9/mode/2up","text":"archive.org"},{"url":"https://github.com/matildee3/slime-machine","text":"Github repo"},{"url":"https://matildee3.github.io/matilde/file/final.mp4","text":"video teaser"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2024-01-01
+
+----
+
+Synop:
+
+This research explores the concept of intelligence, the view of machines and their relationship in a more than human way.
+
+The focus of my research is slime mould, and in particular the Physarum Polycephalum species, a non-binary, decentralized, random organism used as a model for thinking about and then developing a new form of computing.
+
+I begin by rethinking intelligence, challenging the brain-centric view that has dominated our society and trying to understand it in all its forms, trying to remove the anthropocentric lens and analyze it in its more-than-human forms. Then, I examine how machines can be reimagined, designing new relationships and better ways to coexist with non-human entities, following an ecology of technology.
+
+The research includes the development of a computer vision algorithm inspired by the behavior of slime moulds, with a focus on edge detection. This algorithm, aaardm.py, starts from randomness and searches for solutions rather than predicting them, providing a philosophical and practical framework for a more ecological and inclusive form of computing.
+
+----
+
+Input: The Physarum Polycephalum species, a non-binary, decentralized, random organism
+
+----
+
+Formula: Development of a computer vision algorithm inspired by the behavior of slime moulds, with a focus on edge detection
+
+----
+
+Output: A new form of computing
+
+----
+
+Text: Through this research I wanted to demonstrate that there are other ways of doing technology, that integrate with the more-than-human world in an harmoniously way, keeping nature at the center of the process and that the conception of a new form of computing is not only material in nature, but refers back to a new way of thinking.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://matildee3.github.io/matilde/project/slime.html
+  text: Project Website
+- 
+  url: >
+    https://archive.org/details/slime_machines/page/n9/mode/2up
+  text: archive.org
+- 
+  url: >
+    https://github.com/matildee3/slime-machine
+  text: Github Repository
+- 
+  url: >
+    https://matildee3.github.io/matilde/file/final.mp4
+  text: Video
+
+----
+
+Alt: Slime machine, Mathilde Sartori, 2024
+
+----
+
+Images: 
+
+----
+
+Uuid: gjlrHwdUy24QP6MT
+
+----
+
+Nodevideos:
+
+- 
+  url: null
+  text: ""
+  _id: e9d548bb-39ec-405c-a6cb-2e9903ffc2e2

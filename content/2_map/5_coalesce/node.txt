@@ -1,0 +1,102 @@
+Title: Coalesce
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://2PjPyeMqgzEQdSjR
+
+----
+
+Authors: Luis Rodriguez
+
+----
+
+Xpos: 72
+
+----
+
+Ypos: 35
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2023-01-01
+
+----
+
+Concept: hallucination
+
+----
+
+Tools: 
+
+----
+
+Context: Diploma project
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Coalesce is a speculative design research project which explores the use of artificial intelligence to create a gender-fluid design language. By using AI image blending and text-to-image AI models, it is possible to create intersections between unnecessarily gendered products and question the biases and stereotypes that are linked to gender identities within the product design industry.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"Razors for women and men and physical prototypes made through 3D sculpting and modelling as reinterpretations of the AI-designed products","formula":"AI image blending and text-to-image AI models","output":"Gender fluid razors"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>The project consists of an interactive installation that showcases the results of blending razors for women and men through a trained AI model and physical prototypes made through 3D sculpting and modelling as reinterpretations of the AI-designed products.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://ecal.ch/en/feed/projects/7601/coalesce/","text":"ECAL website – project page"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2023-01-01
+
+----
+
+Synop: Coalesce is a speculative design research project which explores the use of artificial intelligence to create a gender-fluid design language. By using AI image blending and text-to-image AI models, it is possible to create intersections between unnecessarily gendered products and question the biases and stereotypes that are linked to gender identities within the product design industry.
+
+----
+
+Input: razors for women and men and physical prototypes made through 3D sculpting and modelling as reinterpretations of the AI-designed products
+
+----
+
+Formula: AI image blending and text-to-image AI models
+
+----
+
+Output: gender fluid razors
+
+----
+
+Text: The project consists of an interactive installation that showcases the results of blending razors for women and men through a trained AI model and physical prototypes made through 3D sculpting and modelling as reinterpretations of the AI-designed products.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://ecal.ch/en/feed/projects/7601/coalesce/
+  text: Project details
+
+----
+
+Alt: Coalesce, Luis Rodriguez, 2023
+
+----
+
+Images: 
+
+----
+
+Uuid: o4huxhR0JOELaWso

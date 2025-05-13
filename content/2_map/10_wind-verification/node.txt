@@ -1,0 +1,102 @@
+Title: Wind verification
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://J1MTCP6yLqo374Wv
+
+----
+
+Authors: Guo Cheng
+
+----
+
+Xpos: 14
+
+----
+
+Ypos: 16
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2021-01-01
+
+----
+
+Concept: classifier
+
+----
+
+Tools: 
+
+----
+
+Context: CAC DKU
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>\"Wind Verification\" is a research-creation project based on the virtual anthropological field of social media networks in the context of mass surveillance. The installation attempts to reproduce the observable but invisible object - wind - in short videos uploaded by social network users in an indoor space.</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"Selected short videos with flags, and 3D images to complete the dataset","formula":"Computer vision","output":"Movement"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"<p>Based on the anthropological field of social media networks in the context of mass surveillance, \"Wind Verification\" uses a typological approach based on computer vision technology to analyze video clips with flags on social media. The installation generates the wind that changes with the switching of video clips, and presents it in a visual and sensorial way. While the project showing the possibilities of bottom-up data collection, analysis and processing, it is also presenting a metaphor for the current era: the digital reality is becoming new reality.</p>"},"id":"54f4df1d-23b2-4928-8430-f56ec393785c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://www.guo-cheng.net/index.php/projects/wind-verification/","text":"Guo Cheng website"}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2021-01-01
+
+----
+
+Synop: "Wind Verification" is a research-creation project based on the virtual anthropological field of social media networks in the context of mass surveillance. The installation attempts to reproduce the observable but invisible object - wind - in short videos uploaded by social network users in an indoor space.
+
+----
+
+Input: Selected short videos with flags, and 3D images to complete the dataset
+
+----
+
+Formula: Computer vision
+
+----
+
+Output: Movement
+
+----
+
+Text: Based on the anthropological field of social media networks in the context of mass surveillance, "Wind Verification" uses a typological approach based on computer vision technology to analyze video clips with flags on social media. The installation generates the wind that changes with the switching of video clips, and presents it in a visual and sensorial way. While the project showing the possibilities of bottom-up data collection, analysis and processing, it is also presenting a metaphor for the current era: the digital reality is becoming new reality.
+
+----
+
+Links:
+
+- 
+  url: >
+    https://www.guo-cheng.net/index.php/projects/wind-verification/
+  text: Project details
+
+----
+
+Alt: Wind Verification, Guo Cheng, 2021
+
+----
+
+Images: 
+
+----
+
+Uuid: fTs05GI5bUrNsPrm

@@ -1,0 +1,112 @@
+Title: Objective Portrait
+
+----
+
+Category: Project
+
+----
+
+Cover: - file://axbRuZNms3zxMDXE
+
+----
+
+Authors: Vera van der Burg & Gijs de Boer
+
+----
+
+Xpos: 91
+
+----
+
+Ypos: 15
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2022-01-01
+
+----
+
+Concept: training
+
+----
+
+Tools: 
+
+----
+
+Context: Dutch Design week
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6085f0c-93dd-4daa-8338-e8417f6b6f5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>This project explores whether a differently trained object recognition algorithm can help to understand such relations. If we explicitly train an algorithm on someone’s personal values, can it capture something of their particular way of seeing? While an objec recognition algorithm usually tries to learn the definition of an object, we explore the potential for a subject recognition algorithm: can an AI learn to see the value and meaning of an object for someone?</p>"},"id":"e81d5037-f4ea-4814-8a65-e280ca2b9fe3","isHidden":false,"type":"text"},{"content":{"input":"A collection of images annoted with subjective labels according to the personal values of each curator. Number of images ranged from 378 to 120.","formula":"AI as a reflective design partner. A play with biais, a connection between the maker of the training and its resulat. Three designers annotate a collection of imagesrepresenting their fascinations, with subjective labels, indicating different dimensions of their visual concepts. These labels are used to teach an object detection modelthe designers’ perspectives. Then, they used this trained model on their own design work to evaluate the AI’s potential to prompt self-reflection.","output":"Installation"},"id":"6ac11ace-107c-4fbc-90e8-e04662d826d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"“Collecting a dataset is a tedious task, because you need a lot images. However, collecting a bunch of images that fascinate you feels actually less tedious, because I really enjoy looking at them. It feels a bit like creating an archive of your interests, which I as a designer tend to do anyways in my practice, for inspiration”","citation":"- Vera van der Burg"},"id":"1c0033d0-c5c8-4b36-94df-47ee8a1c1ab7","isHidden":false,"type":"quote"},{"content":{"links":[{"url":"https://veravanderburg.nl/","text":"Vera van der Burg website"},{"url":"https://dl.acm.org/doi/pdf/10.1145/3563657.3595974","text":"van der Burg, Vera, Gijs de Boer, Almila Akdag Salah, Senthil Chandrasegaran, and Peter Lloyd. \"Title of the Article.\" Journal Name Volume (Issue) (2024)  "}]},"id":"d63359f2-54cf-459d-a512-be66ecf005b6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"map/slime-machine","text":"Example link"}]},"id":"c80ebe35-45fe-439e-9e1f-912c2a512396","isHidden":false,"type":"node-relation"}]
+
+----
+
+Date: 2022-01-01
+
+----
+
+Synop: This project explores whether a differently trained object recognition algorithm can help to understand such relations. If we explicitly train an algorithm on someone’s personal values, can it capture something of their particular way of seeing? While an objec recognition algorithm usually tries to learn the definition of an object, we explore the potential for a subject recognition algorithm: can an AI learn to see the value and meaning of an object for someone?
+
+----
+
+Input: A collection of images annoted with subjective labels according to the personal values of each curator. Number of images ranged from 378 to 120.
+
+----
+
+Formula: AI as a reflective design partner. A play with biais, a connection between the maker of the training and its resulat. Three designers annotate a collection of images representing their fascinations, with subjective labels, indicating different dimensions of their visual concepts. These labels are used to teach an object detection model the designers’ perspectives. Then, they used this trained model on their own design work to evaluate the AI’s potential to prompt self-reflection.
+
+----
+
+Output: Installation
+
+----
+
+Text:
+
+“Collecting a dataset is a tedious task, because you need a lot images. However, collecting a bunch of images that fascinate you feels actually less tedious, because I really enjoy looking at them. It feels a bit like creating an archive of your interests, which I as a designer tend to do anyways in my practice, for inspiration” 
+- Vera van der Burg
+
+----
+
+Links:
+
+- 
+  url: https://veravanderburg.nl/
+  text: "Vera van der Burg's website"
+- 
+  url: >
+    https://dl.acm.org/doi/pdf/10.1145/3563657.3595974
+  text: >
+    van der Burg, Vera, Gijs de Boer, Almila
+    Akdag Salah, Senthil Chandrasegaran, and
+    Peter Lloyd. "Title of the Article."
+    Journal Name Volume(Issue) (2024)
+
+----
+
+Alt: Objective Portrait, Installation, Dutch Design Week, 2022 Vera van der Burg and Gijs de Boer
+
+----
+
+Images: 
+
+----
+
+Uuid: ZAt8RR6Aar07vRu8
