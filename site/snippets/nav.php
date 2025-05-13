@@ -5,7 +5,7 @@
             <a href="/" class=" select-none font-display text-3xl sm:text-5xl">
                 datacraft
             </a>
-            <div :class="subpage.includes('map') ? 'flex' : 'hidden'" class="fixed z-[100] top-8 left-1/2 -translate-x-1/2">
+            <div :class="subpage.includes('map') ? 'flex' : 'hidden'" class="fixed z-[100] top-auto bottom-12 sm:bottom-auto sm:top-8 left-1/2 -translate-x-1/2">
                 <ul class="flex gap-4">
                     <li>
                         <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Project'})" :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Projects</a>

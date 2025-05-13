@@ -5,7 +5,7 @@
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
     
     <?php if ($page->children()->isNotEmpty()): ?>
-        <div class="pointer-events-none <?= $category === 'Historical' ? 'mt-40 relative grid grid-cols-4 gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
+        <div class="pointer-events-none <?= $category === 'Historical' ? 'mt-10 sm:mt-40 relative grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
 
             <?php foreach ($nodes->values() as $index => $node): ?>
                 <?php if($category === 'Historical'):?>

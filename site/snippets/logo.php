@@ -3,7 +3,7 @@
     :class="subpage === 'home' ? 'opacity-100' : 'opacity-20'"
     >datacraft</h1>
     <?php if ($showParagraph ?? false): ?>
-        <p x-show="subpage === 'home'"class="select-none mt-16 absolute top-1/2 text-center text-xs sm:text-base">
+        <p x-show="subpage === 'home'"class="select-none mt-20 absolute top-1/2 text-center text-xs sm:text-base">
             <?=$site->tagline()?>
         </p>
     <?php endif; ?>
