@@ -6,6 +6,14 @@ Category: Historical
 
 ----
 
+Cover: 
+
+----
+
+Authors: N/A
+
+----
+
 Xpos: 
 
 ----
@@ -14,11 +22,23 @@ Ypos:
 
 ----
 
-Date: 2025-05-10
+Datetype: 
 
 ----
 
-Authors: N/A
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 
 
 ----
 
@@ -48,7 +68,7 @@ The I Ching demonstrates early divination methods that echo our present day desi
 
 ----
 
-Videos: 
+Nodevideos: 
 
 ----
 
@@ -86,6 +106,22 @@ Alt:
 ----
 
 Images: 
+
+----
+
+Historical: [{"content":{"level":"h2","text":"Synopsis"},"id":"1811127f-4f74-44f9-83d3-3930246fae7d","isHidden":false,"type":"heading"},{"content":{"text":"<p>The I Ching, or Book of Changes, is an ancient Chinese divination manual developed in the Western Zhou period, circa 1000 BCE. The manual describes a set of 64 hexagrams, each constructed out of all possible permutations of six broken or unbroken lines, stacked vertically on top of one another. Each figure is named, along with a short description followed by six statements, one for each line.</p><p>To use the manual, the diviner begins by holding in their hands a stack of yarrow sticks. Using a complex sequence of gestures separating and then collecting these sticks, a random number of 6, 7, 8 or 9 is generated. The numbers 6 or 8 generate a broken line, whereas the numbers 7 or 9 generate an unbroken line. Each layer of the hexagram is formed sequentially by repeating this same yarrow stick gesture, until the diviner has defined all six. The diviner can then match the resulting hexagram figure with a named figure in the Book of Changes.</p><p>How the diviner interprets this figure is open to debate, and has changed according to the historical and cultural contexts in which it is used. A common approach is to use a hexagram to answer a question; for example a question related to health, or to define possible strategies in a specific situation.</p><p>In Pierre Faure's 2002(*) “Mode d'emploi” or \"\"Manual” to the Book of Changes, he states :</p><p>&gt; \"\"Consulting the Yi Jing involves taking stock of the energy present at any given moment, much like an acupuncturist might take the pulse of their patient in order to better assess their condition, or a pilot might fly over a landscape in order to gain a broader, more uncommon view. The goal is to obtain a description of the circumstances surrounding the issue at hand, and to describe the potentialities of this current situation.\"\" – Pierre Faure, Mode d'emploi du Yi Jing, in Yi Jing : Le livre des Changements, Albin Michel, 2002.</p><p>&gt; “Interroger le Yi Jing consiste à faire le point des énergies en présence à un moment donné, comme un acupuncteur prend le pouls pour connaître l'état de son patient ou un aviateur survole un paysage pour en avoir une vue plus large qu'à l'ordinaire. Le but est d'obtenir une <em>description</em> des circonstances où se place le problème et des virtualités de la situation.” – Pierre Faure, Mode d'emploi du Yi Jing, in Yi Jing : Le livre des Changements, Albin Michel, 2002.</p><p>The I Ching demonstrates early divination methods that echo our present day desire for a machinic, \"artificial\" method that also uses chance and combinatorics to generate new insights. This historical method suggests that the desire for a oracle-divination-system, or pseudo-system, is in fact an old dream.</p>"},"id":"c044ecfe-94fd-4277-8647-735d340b7b01","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Further reading"},"id":"c5c0de41-6bd2-40fe-b8fc-a99ab5878067","isHidden":false,"type":"heading"},{"content":{"links":[{"url":"","text":"John Cage"},{"url":"","text":"Merce Cunningham"},{"url":"","text":"Marcel Duchamp"}]},"id":"4933c8c2-e174-48bc-94a0-4608fe19e546","isHidden":false,"type":"link-list"}]
+
+----
+
+Recipe: 
+
+----
+
+Date: 2025-05-10
+
+----
+
+Videos: 
 
 ----
 

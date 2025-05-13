@@ -186,10 +186,8 @@ fields:
     label: Images
     type: files
     size: large
-  historical:
-    when:
-      category: Historical
-    label: Historical blocks
+  blocks:
+    label: Blocks
     type: blocks
     fieldsets:
       - heading
@@ -200,18 +198,4 @@ fields:
       - definition-list
       - link-list
       - node-relation
-
-  recipe:
-    when:
-      category: Recipe
-    label: Recipe blocks
-    type: blocks
-    fieldsets:
-      - heading
-      - text
-      - list
-      - image
-      - video
-      - definition-list
-      - link-list
-      - node-relation
+      - quote
