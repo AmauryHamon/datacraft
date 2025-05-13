@@ -4,7 +4,10 @@
             <?php snippet('big-arrow') ?>
         </div>
         <h3 class="z-[55]">Input</h3>
-        <div class="text-4xl/ultratight z-[55]"><?= $block->input() ?></div>
+        <?php 
+        $inputLength = $block->input()->length();
+        ?>
+        <div class="<?=$inputLength > 100 ? 'text-xl/tight text-left' : 'text-center text-4xl/ultratight'?> z-[55]"><?= $block->input() ?></div>
     </div>
     <div class="bg-lightgreen p-8">
         <h3 class="text-center">Formula</h3>
