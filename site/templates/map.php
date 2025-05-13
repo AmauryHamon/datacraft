@@ -3,7 +3,7 @@
     <?php snippet('axis-labels') ?>
 <?php endif ?>
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
-    <div class="fixed z-[100] top-40 left-1/2 -translate-x-1/2">
+    <div class="fixed z-[100] top-8 left-1/2 -translate-x-1/2">
         <ul class="flex gap-4">
             <li>
                 <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Project'})" :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Projects</a>
