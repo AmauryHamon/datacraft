@@ -9,23 +9,19 @@
     @click.self="closeModal"
     @click.outside="closeModal"
     class="no-scrollbar fixed top-20 left-16 bottom-16 z-50 flex gap-4 items-start justify-start drop-shadow-logo overflow-y-auto overflow-x-visible">
-    <div class="bg-lightgrey p-6 shadow-lg max-w-xl w-full relative flex flex-col gap-8" @click.stop>
+    <div class="bg-lightgrey p-6 shadow-lg max-w-3xl w-full relative flex flex-col gap-8" @click.stop>
         <button class="z-[55] sticky top-2 right-2 self-end text-green drop-shadow-text" @click="closeModal"><?php snippet('cross') ?></button>
-        <?php if ($page->cover()->toFile()->isNotEmpty()): ?>
+        <?php if ($page->cover()->isNotEmpty()): ?>
             <figure>
-                
                 <img src="<?= $page->cover()->toFile()->url() ?>" alt="" class="w-full">
-                
             </figure>
         <?php endif ?>
-
         <div class="flex flex-col gap-8 text-center">
             <h2 class="text-7xl/ultratight font-display drop-shadow-logo"><?= $page->title() ?></h2>
             <div class="text-3xl/ultratight">
                 <span><?= $page->authors() ?></span>, <?php snippet('nodedate', ['page'=>$page])?>
             </div>
         </div>
-
         <?php if($page->blocks()->toBlocks()->isNotEmpty()):?>
         <?php foreach ($page->blocks()->toBlocks() as $block): ?>
             <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
@@ -33,15 +29,6 @@
             </div>
         <?php endforeach ?>
         <?php endif?>  
-        
-        
-        
-        
-        
-        
-            
-
-        </div>
     </div>
     <div class=" right-[-200px] top-0 w-60 flex flex-col gap-4 sticky">
         <div class="bg-lightgrey p-4 text-xs flex flex-col gap-2">
@@ -84,7 +71,6 @@
         </div>
         <div class="bg-lightgrey p-4">
             <ul class="text-xs space-y-1">
-
                 <li><a href="#synopsis" class="hover:underline" @click.stop>Synopsis</a></li>
                 <li><a href="#formula" class="hover:underline" @click.stop>Formula</a></li>
                 <li><a href="#info" class="hover:underline" @click.stop>Info</a></li>
