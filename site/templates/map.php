@@ -3,26 +3,13 @@
     <?php snippet('axis-labels') ?>
 <?php endif ?>
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
-    <div class="fixed z-[100] top-8 left-1/2 -translate-x-1/2">
-        <ul class="flex gap-4">
-            <li>
-                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Project'})" :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">Projects</a>
-            </li>
-            <li>
-                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Historical'})" :class="$router.query.c === 'Historical' ? 'text-green drop-shadow-logo' : 'text-black'">Legacy</a>
-            </li>
-            <li>
-                <a x-link @click="filterMap" x-bind:href="$router.resolve({c:'Recipe'})" :class="$router.query.c === 'Recipe' ? 'text-green drop-shadow-logo' : 'text-black'">Recipes</a>
-            </li>
-            
-        </ul>
-    </div>
+    
     <?php if ($page->children()->isNotEmpty()): ?>
-        <div class="<?= $category === 'Historical' ? 'mt-40 relative grid grid-cols-4 gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
+        <div class="pointer-events-none <?= $category === 'Historical' ? 'mt-40 relative grid grid-cols-4 gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
 
             <?php foreach ($nodes->values() as $index => $node): ?>
                 <?php if($category === 'Historical'):?>
-                    <a x-link @click="loadPage('<?= $node->url() ?>', true)" :href="window.location.pathname + '?c=Historical'">
+                    <a class="pointer-events-auto" x-link @click="loadPage('<?= $node->url() ?>', true)" :href="window.location.pathname + '?c=Historical'">
                         <div
                             class="z-[100] p-2 max-w-96 bg-white text-black shadow-md rounded-md flex gap-2"
                             x-transition:enter="transition ease-out delay-500 duration-150"
@@ -85,7 +72,7 @@
                     }"
                     x-init="setTimeout(() => visible = true, <?= $index ?> * 50)"
                     :class="visible ? 'opacity-100' : 'opacity-0'"
-                    class="hover:z-[110] select-none absolute flex flex-col justify-center items-center group drop-shadow-logo transition-all duration-700 ease-out"
+                    class="hover:z-[110] select-none absolute flex flex-col justify-center items-center group drop-shadow-logo transition-all duration-700 ease-out pointer-events-auto"
 
                     style="top: <?=$node->ypos()->value()?>%; left: <?=$node->xpos()->value()?>%"
                     @mouseenter.prevent="
