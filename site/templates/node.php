@@ -24,6 +24,18 @@
                 <span><?= $page->authors() ?></span>, <span><?= $page->date() ?></span>
             </div>
         </div>
+
+        <?php if($page->blocks()->toBlocks()->isNotEmpty()):?>
+        <?php foreach ($page->blocks()->toBlocks() as $block): ?>
+            <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
+                <?= $block ?>
+            </div>
+        <?php endforeach ?>
+        <?php endif?>  
+        
+        
+        
+        
         <div id="synopsis" class="border-t border-lightgreen py-4 flex flex-col gap-4">
             <h3>Synopsis</h3>
             <div class="drop-shadow-text"><?= $page->synop() ?></div>
