@@ -11,17 +11,18 @@
     class="no-scrollbar fixed top-20 left-16 bottom-16 z-50 flex gap-4 items-start justify-start drop-shadow-logo overflow-y-auto overflow-x-visible">
     <div class="bg-lightgrey p-6 shadow-lg max-w-xl w-full relative flex flex-col gap-8" @click.stop>
         <button class="z-[55] sticky top-2 right-2 self-end text-green drop-shadow-text" @click="closeModal"><?php snippet('cross') ?></button>
-        <?php if ($page->images()->isNotEmpty()): ?>
+        <?php if ($page->cover()->toFile()->isNotEmpty()): ?>
             <figure>
-                <img src="<?= $page->images()->first()->url() ?>" alt="" class="w-full">
-                <figcaption x-text="selectedNode.alt" class="text-xs text-right text-gray-300"></figcaption>
+                
+                <img src="<?= $page->cover()->toFile()->url() ?>" alt="" class="w-full">
+                
             </figure>
         <?php endif ?>
 
         <div class="flex flex-col gap-8 text-center">
             <h2 class="text-7xl/ultratight font-display drop-shadow-logo"><?= $page->title() ?></h2>
             <div class="text-3xl/ultratight">
-                <span><?= $page->authors() ?></span>, <span><?= $page->date() ?></span>
+                <span><?= $page->authors() ?></span>, <?php snippet('nodedate', ['page'=>$page])?>
             </div>
         </div>
 
@@ -36,76 +37,9 @@
         
         
         
-        <div id="synopsis" class="border-t border-lightgreen py-4 flex flex-col gap-4">
-            <h3>Synopsis</h3>
-            <div class="drop-shadow-text"><?= $page->synop() ?></div>
-        </div>
-        <?php if ($page->nodevideos()->toStructure()->isNotEmpty()): ?>
-            <div id="videos" class="border-t border-lightgreen py-4 flex flex-col gap-4">
-                <h3>Videos</h3>
-                <div class="flex flex-col gap-4">
-                    <?php foreach ($page->nodevideos()->toStructure() as $video): ?>
-                        <?= video($video->url(), [], ['class' => 'w-full h-full aspect-video']) ?>
-                    <?php endforeach ?>
-                </div>
-            </div>
-        <?php endif ?>
-        <?php if ($page->input()->isNotEmpty() && $page->formula()->isNotEmpty() && $page->output()->isNotEmpty()): ?>
-        <?php endif ?>
-        <div class="flex flex-col gap-8">
-            <div id="formula" class="flex flex-col">
-                <div class="relative z-[55] text-center border border-green p-8 flex flex-col gap-4 pb-16">
-                    <div class="z-[54] absolute top-0 bottom-0 left-1/2 -translate-x-1/2">
-                        <?php snippet('big-arrow') ?>
-                    </div>
-                    <h3 class="z-[55]">Input</h3>
-                    <div class="text-4xl/ultratight z-[55]"><?= $page->input() ?></div>
-                </div>
-                <div class="bg-lightgreen p-8">
-                    <h3 class="text-center">Formula</h3>
-                    <div><?= $page->formula() ?></div>
-                </div>
-                <div class="relative z-[55] text-center border border-green p-8 flex flex-col gap-4 pb-16">
-                    <div class="z-[54] absolute top-0 bottom-0 left-1/2 -translate-x-1/2">
-                        <?php snippet('big-arrow') ?>
-                    </div>
-                    <h3 class="z-[55]">Output</h3>
-                    <div class="text-4xl/ultratight z-[55]"><?= $page->output() ?></div>
-                </div>
-            </div>
-            <?php if ($page->text()->isNotEmpty()): ?>
-                <div id="info" class="drop-shadow-text flex flex-col gap-8"><?= $page->text()->kt() ?></div>
-            <?php endif ?>
-            <!-- <div class="border-t border-lightgreen py-4 flex flex-col gap-4">
-                <h3 class="text-2xl/tight">Related</h3>
-                <ul class="flex flex-wrap gap-2">
-
-                    <li>
-                        <a
-                            href=""
-                            class="select-none flex flex-col justify-center items-center group drop-shadow-logo"
-                            x-data="{ message: '○'}"
-                            @mouseenter.prevent="message = '●'"
-                            @mouseleave.prevent="message = '○'">
-                            <div
-                                class="text-base group-hover:text-green"
-                                x-text="message"></div>
-                            <h3 class="text-xs">test</h3>
-                        </a>
-                    </li>
-
-                </ul>
-            </div> -->
-            <?php if ($page->links()->toStructure()->isNotEmpty()): ?>
-                <div class="border-t border-lightgreen py-4 flex flex-col gap-4">
-                    <h3 id="links" class="text-2xl/tight">External Links</h3>
-                    <ul class="flex flex-wrap gap-2">
-                        <?php foreach ($page->links()->toStructure() as $link): ?>
-                            <li><a href="<?= $link->url() ?>" class="bg-lightgreen text-xs p-1 after:content-['↗'] after:ml-1" after="↗" target="_blank"><?= $link->text() ?></a></li>
-                        <?php endforeach ?>
-                    </ul>
-                </div>
-            <?php endif ?>
+        
+        
+            
 
         </div>
     </div>
