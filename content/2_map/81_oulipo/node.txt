@@ -1,0 +1,61 @@
+Title: Oulipo
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Ouvroir de littérature potentielle
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1960-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"b041a377-14c2-442a-8382-be460b408b55","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"81d3afde-5f1a-43d3-a712-3f0e449c50af","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"9e14f0a3-e2b7-4509-963f-930abe209d50","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"4f13af3c-8e4a-444b-a5c4-d3ba6aef8b12","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"0ae7d8dd-d183-4898-95f4-a16f263d8bd6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8938b9eb-401c-4959-8ee3-d3d3d475fcca","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: mNL6YFDa4ZsL3zSS

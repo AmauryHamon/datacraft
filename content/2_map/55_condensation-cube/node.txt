@@ -1,0 +1,61 @@
+Title: Condensation Cube
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Hans Haacke
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1963-01-01
+
+----
+
+Dateperiodend: 1965-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"bcd67eea-37f7-4409-9f1e-819e93e62056","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"79b3653b-e7ad-4473-b607-cf0d525754d5","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"8416dccf-28f6-445a-9ef6-ef6849f5ed4a","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"b32ad321-ff6c-4156-82e1-0a5a143eee07","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"4cdbbe06-572d-4756-b699-7ff210272122","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"71a191bb-3ac9-4166-a19b-97b5b1851564","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: lPfXw1isrjPCtHRm

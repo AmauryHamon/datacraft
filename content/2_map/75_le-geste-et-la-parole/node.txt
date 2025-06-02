@@ -1,0 +1,61 @@
+Title: Le geste et la parole
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: André Leroi-Gourhan
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1964-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"a18ebfce-0ec1-493f-bec1-e85c6635a496","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"4773d923-2cd8-4238-9fb8-2ad66522a4c9","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c9fd9738-8929-4e8c-9797-7a06e552fa17","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"e042e493-72dc-4a32-8036-5418081d90f0","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"605be16a-b9f7-4eff-99a3-06aa980efc51","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"6a7d33c7-eeda-4e24-b6ab-3f571988fc67","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: LS26rw4aUd9tOa2n

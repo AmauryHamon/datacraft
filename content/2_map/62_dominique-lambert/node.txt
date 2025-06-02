@@ -1,0 +1,61 @@
+Title: Dominique Lambert
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Stéphanie Solinas
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2016-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"30160796-7af1-426e-8202-2902c26c572a","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"7e329aa1-0f4d-42cc-9768-a6746c59b478","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"84ebac78-6a0f-43d2-a7b6-90e3ecb22c4a","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"5054852c-e91d-49a7-aa19-f920d5821c68","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"de668ff6-f449-46d3-b293-683818373f23","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"42c935b0-8a12-4c24-b974-7d05e2ce213d","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: k6rLjAZjiyl5dMFv

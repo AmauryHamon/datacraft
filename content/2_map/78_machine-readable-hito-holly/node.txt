@@ -1,0 +1,61 @@
+Title: Machine-Readable Hito & Holly
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Trevor Paglen
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2018-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"2b00663f-372d-4828-b501-08fefc7b6b49","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"59c6f508-1dea-4499-8dde-0557e88cce91","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c802b52b-75fb-4db7-ba34-0886265f2559","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"d2acf994-2e8e-40f9-85cf-0e9ca434a137","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"8c1cb727-5f67-4d0c-90ba-a78e0d806e87","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"027f8f2e-300d-4718-95d3-cbed67b38aa8","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: Stuf7NRvQkUWd1Qk

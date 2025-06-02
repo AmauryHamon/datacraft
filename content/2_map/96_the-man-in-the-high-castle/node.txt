@@ -1,0 +1,61 @@
+Title: The Man In The High Castle
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Philip K. Dick
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1962-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"629e62c1-1e78-4b25-80bd-d62cc6f795d2","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"60efc8cf-a10e-4741-8b04-5445d6a8134a","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"8cbb4aa3-4f2b-40a5-b974-1b8487132d2e","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"81933561-e950-4da4-b42f-7664d2e61d86","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"fd2fc1af-b096-4d4b-81fb-e16cd43467b5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"1b801d79-8e07-495b-a5a8-8c4e69193311","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: iQIwqVaNmQ3F9BEa

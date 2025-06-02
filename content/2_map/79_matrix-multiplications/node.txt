@@ -1,0 +1,61 @@
+Title: Matrix Multiplications
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Frieder Nake
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1967-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"3b40397c-8e18-40d4-9d9a-0c42dbfdc8a6","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a19dbcfe-8bce-4fc6-9449-b08cf66d6dcf","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"799ef309-f4d0-47f1-8d08-758863984433","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1a0752dd-aaeb-403b-b15b-9311833a0076","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"47aef633-753a-4f88-ba6b-e063ce17e298","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"7792aa42-706b-4a81-958f-c258a2bee5cf","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 5wYAhucYQooxAM0q

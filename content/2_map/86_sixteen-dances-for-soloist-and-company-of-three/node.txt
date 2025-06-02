@@ -1,0 +1,61 @@
+Title: Sixteen Dances for Soloist and Company of Three
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: John Cage & Merce Cunningham
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1951-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"d400ec66-1858-4dbd-8a4b-6fd28f968d4e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"749eb673-f830-49ef-8424-89e1fbba4dbd","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"f95f6b52-cb19-4e75-8014-90a79c0db1b0","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"22d91d06-c73e-4246-91ce-974988c6f20b","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"bc180f98-7d2c-461e-a92d-25705fa1c259","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"f44c19c1-af41-4c7b-a107-11256a199fcc","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: MeDOmiAH8nRF2eaC

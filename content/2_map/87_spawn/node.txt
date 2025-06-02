@@ -1,0 +1,61 @@
+Title: Spawn
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Holly Herndon
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2019-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"88fe5c2c-2d1b-4a53-b33a-3ea96501cc51","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"cabd0830-7c0f-43a6-b217-319c9991c1e6","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"99df49cf-156c-4489-86be-66e2d95f885f","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"e6891f6e-f4d9-432d-8612-16482fe0f8c4","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"a643370c-7e9a-42a3-b81d-6d8d3942bdfb","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"0d0be792-78f0-489e-aeca-5e39b4bf6128","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: pUmA368rvITF0RrI

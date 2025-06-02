@@ -1,0 +1,61 @@
+Title: The Ray Gun Wing
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Claes Oldenberg
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1977-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"533382bb-6f40-4323-a257-c89d241beffb","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"1d8fa1ae-5875-4c49-90fa-82a10ae358c6","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"d8752b2e-029c-429a-b43d-6968f217d364","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1cdef1b9-c822-433f-a948-d0e8f05f742f","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"d8f61d4b-8bf5-4f98-a7ae-305fa5848a5f","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"83875b7e-e413-4bb6-b590-6acccc629c54","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: AmIT6aRtuf6EX74t

@@ -1,0 +1,61 @@
+Title: Design By Numbers
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: John Maeda
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2001-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"08964e81-a613-4afc-935a-eff88e3b1da1","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"8b80a548-b957-42e2-ab5e-9115bebda720","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"b6820989-838e-4feb-b131-7c5d0fee1ff1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"d63f84df-949f-485c-a567-e8ad9aa1d50c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5614d4e4-f334-471b-aff1-bd7db108b7fa","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8473eacb-2294-469d-9ee8-a4e7322ed435","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 7yQwDl1YbdnGKJYh

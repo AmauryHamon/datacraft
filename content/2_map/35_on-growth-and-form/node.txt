@@ -1,0 +1,61 @@
+Title: On Growth and Form
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: D’Arcy Wentworth Thompson
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1917-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"189b882e-0680-4d51-a811-3c31e71b1539","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"b56de50d-2c2e-4dc0-a8d0-2da208160038","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"ca2fa1b5-9143-45b2-9d12-bfbcbb7fc71a","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"942597cd-b11a-4bdf-a898-0460b721308f","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e64026f7-1313-46bc-89c3-4a7ad3cc2ce2","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"2b9e88bb-f29f-4439-b1b1-7badb9224ef4","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 4mkPe5mC87SMZlbi

@@ -1,0 +1,61 @@
+Title: Animal Locomotion
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Eadweard Muybridge
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1887-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"c8a64115-b378-40dd-a978-01ab0ee87bb2","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"8fe525dc-2695-45e1-80c8-f93975454b1a","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"7f6f7fdd-df9d-4167-b781-03e4e1ff7c96","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"cb876e17-989b-43f0-95de-9d169e7fb887","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"30c511df-be29-4c95-bf41-b2070d556667","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"1ee0267c-595c-4c8a-ae1b-6ef2b1b34068","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 6DnS2EehwupzDztl

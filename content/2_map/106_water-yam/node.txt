@@ -1,0 +1,61 @@
+Title: Water Yam
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Fluxus
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1963-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"50bbe889-2661-4ab2-b6d2-4d4dd894c32b","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"1cd8160d-854a-4f63-96bb-bb56dd3a554c","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"4dc5f6be-c479-4736-9f04-9ac874ed5073","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"d4189dcb-2339-4642-8e88-9a31b7d2bd27","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"447713c3-9743-4ebe-8a46-009338b6d7df","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"87790eed-8d49-46c6-b432-982a0c4ddced","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: caY08e8CjMUEyKTl

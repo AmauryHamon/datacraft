@@ -1,0 +1,61 @@
+Title: 3 stoppages-étalon (3 Standard Stoppages)
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Marcel Duchamp
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1913-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"723383ab-7077-4d85-90e3-77aa26d0bb0d","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"2bc90064-3f4c-4acf-b2dd-0fc51817fe16","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"4ff47ee3-0978-46c4-9541-a850f8955073","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"665cf875-8589-44cf-b3aa-9be632d07d72","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"497f8f89-7b3e-4783-90a8-406df57706c5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"45628bc4-372e-4450-bdbd-70e7d8a053a7","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: j9tShaaav0pkuq5i

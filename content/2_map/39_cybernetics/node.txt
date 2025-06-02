@@ -1,0 +1,61 @@
+Title: Cybernetics
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Norbert Wiener
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1948-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"79f3b791-3d39-40a1-bf16-8ab58bae9ad2","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"f96eba35-97b7-44da-b01d-34b15583d520","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"db8b1d49-b87c-4c1a-861d-286d9fdf3345","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"7959c6bc-67e7-4345-88c2-fc69ebec385a","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"af89dfda-091e-47fa-bc0c-c8b3d08350b3","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"416a974f-2b69-4c7a-817e-93aa8f74e9be","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: It8bGed3Hm4i1DT4

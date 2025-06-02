@@ -1,0 +1,61 @@
+Title: Suite by Chance
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Merce Cunningham
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1953-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"4c071786-2db4-4c75-9b94-010187b25e12","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"05e11809-6991-4ca3-ae11-03741bd348e6","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"4444b0bc-0618-4f3c-a55f-45d70067b04f","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"da9c48e9-9bdf-4dbb-af1c-756319a6461d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"3fa261ee-86e6-4421-b682-de2e9643a969","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"98f7222b-3152-4aa1-be58-8135f8257c6a","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: FHNrCwUeZqObNkKG

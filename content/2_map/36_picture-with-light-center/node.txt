@@ -1,0 +1,61 @@
+Title: Picture with Light Center
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Kurt Schwitters
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1919-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"66a0fc1f-ccbb-4526-8fd7-161287e66103","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"8a0fd1e1-c9d2-4ef3-9553-785f74605ac6","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"555d2021-ed6d-4f3a-baed-66f0557236e7","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"8401a3fe-f7af-4ebd-bdf2-49cb2bf1e00e","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e1201a3b-fe36-4263-9569-6bdfd6c8cb3f","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"e6cdf31b-2988-43a3-a2b8-82a2e80501e5","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 7ddfkNybtI2Aatzh

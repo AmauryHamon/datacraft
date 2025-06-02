@@ -1,0 +1,61 @@
+Title: sea and spar between
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Nick Montfort & Stephanie Strickland
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2010-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"54ca044d-76b7-4ba0-b00e-67cbef37dd9b","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"dfba060e-05e8-4d9b-bc26-94ad8af2e82a","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c31502d2-6e97-4902-b8fa-40e95e1b05ad","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"e3c95ff2-cb54-46e0-89e5-3b5b341b0630","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"490a69bf-42fa-42a4-94e5-ed8a9e11d650","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"9e69d6e7-582a-4020-938d-f8a028a47fe4","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: eguQ0B7QKkXJguUo

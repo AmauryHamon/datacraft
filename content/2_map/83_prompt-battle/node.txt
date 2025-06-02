@@ -1,0 +1,61 @@
+Title: Prompt Battle
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: 
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"3972510b-0b75-4266-a5ad-530cf42bdfd4","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"0e50f034-a047-4722-a180-412654148977","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"ff68e7e7-584b-433e-b4c9-e5cd2d996100","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"dd94fc78-de98-4ac8-aa3d-1d98c075f8b7","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9e888c1a-4010-4df0-895a-9af2b4acdf3b","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"ca27e9a6-32dc-48e8-994d-23c158b189d5","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: i867S6qtZcjDT8Wo

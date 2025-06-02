@@ -1,0 +1,61 @@
+Title: Markov Chains
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Andrey Markov
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1906-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"9ab55685-4f7b-483f-a632-5fa238c64bef","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"609506bb-2669-46d3-a569-ab2cad542cac","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"62ad2cea-3ea9-4c06-a17f-8b562c73efff","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"bd33b72e-8db4-4265-8f35-971fa77679a4","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5280e57d-b595-4611-bf0c-7593e26770e5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"e598f2c9-8a52-4fa4-92ba-54e5df10f09e","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: B4uWkvQ4EAqSbeIy

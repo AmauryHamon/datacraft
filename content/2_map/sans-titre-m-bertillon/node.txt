@@ -1,0 +1,61 @@
+Title: Sans Titre (M. Bertillon)
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Stéphanie Solinas
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2011-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"29e15c5b-6ce3-4c82-a6e2-6f293370cf22","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"37c2c50c-238a-4c87-9e16-4eed59817956","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"8e15a16d-ae52-44b0-930d-3390a9a40782","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"34893f10-8c68-4af0-b915-a9d9aa70d886","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"de5b3100-1c2d-4776-b42c-85319422c956","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"1ce0f3b5-bc94-43f0-a474-0ede012d754c","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 3wOZDrmGOPv8uNYY

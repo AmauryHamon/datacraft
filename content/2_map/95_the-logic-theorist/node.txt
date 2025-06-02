@@ -1,0 +1,61 @@
+Title: The Logic Theorist
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Herbert Simon & Allen Newell
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1956-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"71a27a64-f164-46b1-ac00-0def23de0c0d","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"aaa5c845-dd41-4acb-9753-3b1754c2ae37","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"eb53d07c-df32-421f-953a-4571a931bd4e","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"942151ce-48f8-4e63-8b0e-b4985a5c3ff0","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"4db77818-8ca6-4b7b-a1f7-06a264d78fbf","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"037319b6-3ce4-408b-b20b-0d762de73839","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: b7D6tHHc3kV9GKfu

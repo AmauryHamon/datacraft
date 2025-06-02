@@ -1,0 +1,61 @@
+Title: Kunstformen der Natur
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Ernst Haeckel
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1899-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"b156188a-c244-4b74-8a22-85e061132aa9","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ac458c3b-d72e-45e4-8584-3600571c6fc4","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"9a838de9-655e-4314-8996-aaa69e7e2fb2","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"13365290-26eb-49de-a4b9-f602c03a0d96","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"78ffedf0-1dce-4cc5-9223-8f1c1c3cedad","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"ccb387c7-ebc2-4a16-b426-f46e079bd1c9","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: Oo9dKYfd7ibhZNrq

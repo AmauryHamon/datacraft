@@ -1,0 +1,61 @@
+Title: A Cyborg Manifesto
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Donna Haraway
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1985-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"a601368a-024d-4592-9ecc-5711265ea938","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"3a827fc2-ad4c-494d-bec0-c99475a9f2f7","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"dd19aaf5-99f2-4331-b67e-e8af93fab3d1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"946e172e-3b0b-4148-944a-9b423bdb023a","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"b4041f94-1142-4215-809c-8b6254a950bb","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"10d5eb8e-798f-4e57-88e0-dea7fa577070","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: UWztENJro0GKGlUx

@@ -1,0 +1,61 @@
+Title: Faces & Body Parts
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Fred Parke
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1974-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"11d2a9b5-0fd8-480c-8864-cd77a7e13f3c","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"4edfe1a4-7087-4bab-a0da-eaccdd515f17","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"3831031f-2fed-47a6-970a-dd53b045e3e1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"3618053c-a2f0-4a4f-8c3a-8fa0f773a507","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"08484f80-bb2c-4a81-86d6-807fdd96504d","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8b785048-159b-4f8b-9be0-447c8331a7d8","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: ctacVlVaYYfdtrHw

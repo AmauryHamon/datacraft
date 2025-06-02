@@ -1,0 +1,61 @@
+Title: Aspen Movie Map
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Michael Naimark
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1979-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"d1b2a343-c4b6-47ec-bce7-4a26b0cceb38","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ae8296fc-b85c-43cf-84e0-c5b31ac0e97c","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"38d470bc-c381-4bd2-bfff-02331969863f","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"ae1c3596-79fd-4b57-8157-ff431732faa6","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"de126f5c-64bc-4d2f-a853-47db291a2846","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"e57aa1c2-32cd-41a3-91a1-bc6af0b362f3","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: BKwBC9s6BegvtJY4

@@ -1,0 +1,61 @@
+Title: Computing Machinery and Intelligence
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Alan Turing
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1950-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"305edb9f-3d09-4a64-b871-06d7338f8cca","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"95b961cb-6595-47d8-8886-556a32c9087a","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c0b6eb48-9427-43ff-b3fb-ef101acdbf20","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"718bfe35-0608-4abe-ad28-10f75788fc6d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"8f232e10-72e7-4198-83da-b7855096246f","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"13b6b7a4-1a55-4a9f-a618-a77e52a4c251","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: g8QPyQ7bazzU4HP0

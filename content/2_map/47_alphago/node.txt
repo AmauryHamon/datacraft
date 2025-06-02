@@ -1,0 +1,61 @@
+Title: AlphaGo
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: DeepMind
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2016-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"714df361-a2c2-44ce-9e5e-42511a2649c0","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"5e23c759-d060-416a-a7d2-a6a8153f97c8","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"0ccb17ce-63ed-4dc0-abb4-406cf2e6404e","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"080e2dd4-4568-43ca-bc6a-48bed2998139","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e8a32e86-bedc-4fd1-bed1-4bc12bf11531","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"f61cab4c-c193-44b7-9f8b-194f84adcb8f","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: LeqI9zqOhujtnib4

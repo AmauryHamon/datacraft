@@ -1,0 +1,61 @@
+Title: Llamasoft
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Jeff Minter
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1981-01-01
+
+----
+
+Dateperiodend: 1994-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"86c0d3c5-15a6-4f78-9471-b7a0a8e0c598","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"d73d19de-67dd-4e7e-9783-0b6bd08b6cc0","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"19fdce4e-8a24-446c-906c-87574d7d0941","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"34a97e25-0352-4141-bffa-fe3d33483f61","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"3cca9e3e-c7e0-4352-9988-ba8a0fbd97be","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"554e53d1-5416-40a4-b1cd-ceeff08e2f2f","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 1gfzQJJVT1hE0VDC

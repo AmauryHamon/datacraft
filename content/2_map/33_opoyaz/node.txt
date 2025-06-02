@@ -1,0 +1,61 @@
+Title: Opoyaz
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Moscow Linguistic Circle
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1916-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"4ea79839-595e-40db-838e-35914ad8e2f7","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"3a9dadb2-d5d5-4584-89d2-e8983f344705","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"cd42b476-5698-4b34-8f42-ad4df42577e5","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"7ac0bd82-f155-44d5-98a9-becbdd770449","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"44197510-dc17-415d-9094-a8b1c3ad2394","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"cd1644b7-34c0-4e60-bef8-538a432a3923","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: cnNJLoXOKWOHgTjB

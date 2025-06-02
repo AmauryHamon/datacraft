@@ -1,0 +1,61 @@
+Title: Evolutionary Art & Computers
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: William Latham & Stephen Todd
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1992-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"9cf40374-d50f-4cfa-9027-c8456461a6c8","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a6b089d6-5c47-44f7-b538-738a3bd2aef2","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"2d8cdfda-4dd8-4061-bdfc-3f748d5e85b5","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"7fd9a26d-c966-4e68-86c6-8edd2a3b496a","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e9b286b3-ea67-4d84-ba96-fb30fc268e05","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8eeca756-04a4-4a25-8ef9-00e331abd621","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: nO2oNL8AQ6BqPnwn

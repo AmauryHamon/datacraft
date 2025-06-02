@@ -1,0 +1,61 @@
+Title: The Perceptron
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Frank Rosenblatt
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1957-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"b4355938-5ee2-46c7-8856-841d70475f1e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"1fd49729-1e8c-4c80-9168-ba877fe88046","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"58bc980b-98c1-46ec-9953-fc89de0f0e73","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"2877dd42-191b-4bd5-b4bc-07088baa0310","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"88ee05b0-3a39-4a03-9854-e1765ee845ba","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"6c858065-8ecb-4dec-ba6b-99757bbf771d","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: JWMz7RNwgcGTHgue

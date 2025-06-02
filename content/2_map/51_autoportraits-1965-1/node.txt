@@ -1,0 +1,61 @@
+Title: Autoportraits 1965 1 – ∞
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Roman Opalka
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1965-01-01
+
+----
+
+Dateperiodend: 2011-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6bdccdc-80f3-40fe-9279-7847ad0ca4ac","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"0ba69776-d047-41ee-9888-fd9cc4e80aeb","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"da9a72ca-21f9-4320-9b34-9d8dd0d6cf38","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"33d5f124-1c17-42f0-94d7-e50664bd64f2","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"3c60025e-52b2-4213-8008-acd9c6fd5271","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"91cef8ae-ebba-4090-9888-f68659afd52e","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 2IBNYTJy7nlprjqY

@@ -1,0 +1,61 @@
+Title: Untitled (Collage with Squares Arranged according to the Law of Chance)
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Jean Arp
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1916-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"43b3c6e2-0a65-4963-b4d6-5c4519cd8fd4","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a7ef74f0-6cfa-4da3-825c-45e3c8f35904","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"6790ef93-471d-4e67-995d-c6c0d796f8c8","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"89a073af-e79b-4025-95bc-1198a5bc901c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"08306394-a5ee-47b0-bada-0a6f0e47d679","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"c3fd06ba-867e-4b52-b798-5beb036fe8ef","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 1ULq0pTFf6AW9WDH

@@ -1,0 +1,61 @@
+Title: Bilderatlas Mnemosyne
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Aby Warburg
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1927-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"71d9c3f6-9116-403e-a144-7bad3225f1aa","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"d3c67a58-e6c2-462a-9bc6-fe3b3081db70","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"727415b6-7bc0-4a6d-b4e2-2a0ad5ee3247","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"e02f76a1-191e-432f-93f2-d8cdee91fcea","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"edaafc83-32df-4909-ba9b-11eb75ae87cb","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"d1924823-7815-4148-ba58-148ec6768448","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: QQ77Z2HxMdhs4PWP

@@ -1,0 +1,61 @@
+Title: Initiation à la génération de textes
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Jean-Pierre Balpe
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1986-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"d2f27fab-27b5-4880-bb7b-f7ea44c3fa47","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"384de460-32cc-44ef-b26d-6d3ea92be697","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"7f1d5ff8-6d5b-45cc-9dbe-65b11c961b7f","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"fea4b051-756c-404a-9d1d-def632a290a3","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"618f4f25-6846-4b35-9c02-9e369484c747","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"17723bd6-58c2-419c-ba06-f990318708c5","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: zmi11RirHwSQ5StB

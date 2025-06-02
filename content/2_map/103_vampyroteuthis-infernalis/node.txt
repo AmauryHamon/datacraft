@@ -1,0 +1,61 @@
+Title: Vampyroteuthis infernalis
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Vilém Flusser & Louis Bec
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1987-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"d6011f24-1ab9-49e2-8c6f-97ef0be02aed","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"501464d5-28eb-4174-a7c6-22b79c868ed0","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"6834a041-b3af-4744-bc48-a40b796f1670","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"a56dd6cd-2fec-4a31-ae88-3c41b69294a0","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"bb3cf431-ab9c-4d92-9763-e7a4a9130914","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"0828a3cf-f325-4bff-8ca4-95776cc0419b","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: wV9nyI34AC7HRpmW

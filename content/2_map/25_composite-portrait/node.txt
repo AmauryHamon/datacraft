@@ -1,0 +1,61 @@
+Title: Composite Portrait
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Francis Galton
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: text
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: c.1880
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"7f652439-87f7-4535-85c1-4faa5e9ea186","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"41aaf700-6fa4-4d8c-9a90-1895ec0f8836","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"2dc1b68d-e7c6-41fc-88fb-21c09b8d98cc","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"24e00e54-a569-4f9a-9910-e55f08f7325c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"920d6db8-aeb8-4f77-a033-a414bfd5be32","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8a7941d2-2adb-4511-b9d9-826b6cc1a856","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: SNjl4MAneAkUOO7M

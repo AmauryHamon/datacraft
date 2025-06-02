@@ -1,0 +1,61 @@
+Title: Ugly, Backflip
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Nikita Diakur
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2010-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"e6fb61b2-f7cb-4e62-9328-0ef41f842039","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"cbe6df20-e402-40ba-8e76-9dbe90221d69","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"8adfaecb-9d9c-4c2b-89e1-9ba3b25d9afa","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"8677f5d7-7524-4dae-9be3-98dd475eb2ee","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"cdf12ee9-5af5-4ae3-aaf4-453124c9b74e","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"62134c87-5029-44c5-a46a-620be537966a","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: V0o8lNrmUBgnJVcD

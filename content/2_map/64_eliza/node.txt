@@ -1,0 +1,61 @@
+Title: Eliza
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Joseph Weizenbaum
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1964-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"06a53bdf-6787-4a39-951a-26ba1127f62c","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"2d65b6f0-0187-456d-bdfb-5b97f8e9a6c4","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"87754da3-47a3-43c7-9a91-f75c3be2a40c","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"b0a8018e-11fb-4855-8dd4-7ba832de9c3d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5f15408b-ad80-424a-b9ca-d3e5ac15fee5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"7a388a29-fc85-4f6a-b576-05f401268d29","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: ajIvQJsVSYD6WOAf

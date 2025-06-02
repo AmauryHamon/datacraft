@@ -1,0 +1,61 @@
+Title: A Computer Animated Hand
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Edwin Catmull & Fred Parke
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1972-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"de7fad2e-9028-4b1e-a057-750c8585f759","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"72506793-24eb-40b1-a431-3ae9dc9c4b1c","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"e18ac21f-0e50-4d5e-b633-6e376244bb2a","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"d5ee7412-df5d-4f11-82d0-f788dd072389","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"8d48e84c-4b76-486f-a2de-8d5b7f7467a5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"b639c5fe-0be4-49f7-a589-535d1ff57ecb","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: WzbAJBWX5mTTWPiu

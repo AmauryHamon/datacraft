@@ -1,0 +1,61 @@
+Title: Perlin Noise
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Ken Perlin
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1985-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"11a07004-2f40-4630-bae9-763ae898fa1d","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"2a9a3eb1-4f4b-47bc-b9df-5e4b8bd3e5bc","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"5acb5ee1-a262-4a41-88f7-ab78aa764a65","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"73e20e23-ce12-41db-900b-baa7b337e27c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"d157541b-f011-4fa5-bb23-2debd7269e62","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"a21e2aff-a155-443e-8b02-11659e22381c","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: w9G7jE7IaJiB9PJ4

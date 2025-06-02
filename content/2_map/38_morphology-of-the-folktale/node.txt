@@ -1,0 +1,61 @@
+Title: Morphology of the Folktale
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Vladimir Propp
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1928-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"7c7e6c0b-4d64-4490-b599-28c84d649ddf","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"784bb57e-ae1b-4102-8fdc-49c5f3e9c076","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"98652948-6303-48d2-86d7-5ace55d59429","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"dc0d1f10-69d4-4a4b-abca-bd73b0c4fc95","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e4d37945-24fd-4edf-bcfe-1746fc1bbec6","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"17d2b54e-dff6-45b3-8276-96045f96e820","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: Ahd93VsY2IcwfPYh

@@ -1,0 +1,61 @@
+Title: Eigenfaces
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: L. Sirovich & M. Kirby
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1985-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"d7510429-69ea-4d94-8382-ded91e9f5114","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"8974d126-4b6b-4fd1-8a16-19d3a960a73d","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"cc3c2d3f-e3ec-4567-81db-5d670c4a1126","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"6464012e-887f-4d41-b51f-960ca1c1a930","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9e8a7e52-92c3-4ca2-8c64-5f50586165a9","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"3dd506f4-06f6-4edc-a4ff-99ddb8bb0d6c","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: CUiM84JNGk2dw0lm

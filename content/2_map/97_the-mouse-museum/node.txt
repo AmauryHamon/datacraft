@@ -1,0 +1,61 @@
+Title: The Mouse Museum
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Claes Oldenberg
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1977-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"c3f89c47-d53f-4b5e-b3c3-dfb33de247ba","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"7cae005a-7269-40ba-aa30-0f6c41593c9b","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"43f14979-afc9-4cc9-bc35-744757cc7e07","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"96192103-9e22-4c9e-b7d0-a414a0e60f4d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"205f1045-6156-45e9-83c3-04b4cdf7c638","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"79445321-a6b7-4804-ab93-ec963572bfa7","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: DqStXn2ICombNLOV

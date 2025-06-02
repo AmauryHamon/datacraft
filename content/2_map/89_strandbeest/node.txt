@@ -1,0 +1,61 @@
+Title: Strandbeest
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Theo Jansen
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1990-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"032471ae-3c00-4044-ac82-285b31077fba","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"991f1874-0d83-4526-a48e-041579259f82","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"6795481e-766c-44f9-a68c-794ab84d57fe","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"35391920-e33b-45eb-b6d9-6e3be980ba76","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9efb2882-48e8-4689-bc6b-7b7901f3ceb5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"ca301f3c-28e0-4ed1-8bfc-c316afbdd42b","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: BRy7xtDeSNEEw7MC

@@ -1,0 +1,61 @@
+Title: Cut-up Technique
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Brian Gysin
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: text
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: c.1959
+
+----
+
+Year: 2029-11-19
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"16eb2c87-bca4-4dc5-9f66-7bd9ab00314a","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"1be641db-8bbf-45ce-b38d-662d530a93e7","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"16fda6c4-eaeb-43b5-81bb-6360d6994a99","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"f5380ebd-2d49-4086-8597-99a65fab2b52","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"4605db12-e0de-458b-bfcf-6a385824d78c","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"ed2a28ef-38fa-4a23-81fd-ffc67a7a950a","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: iDcv4pK1rpddyLSU

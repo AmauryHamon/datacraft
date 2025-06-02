@@ -1,0 +1,61 @@
+Title: 1965 / 1 – ∞
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Roman Opalka
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1965-01-01
+
+----
+
+Dateperiodend: 2011-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"3ed5d7c8-d072-4e80-bf98-50e216032a1e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"f136fddc-89c4-4a8d-9817-576094ebb128","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"7eef12a5-c7a1-458d-8305-b5d5bb941d02","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"9d63523e-ee02-4b49-825d-aa7e6a7bc7a7","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"7c7e59d9-fd08-423e-85ee-e81ba7b4682c","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"2dfd0c27-8811-452d-a226-661a10e28a12","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: USWcANxWD8Xq9yEp

@@ -1,0 +1,61 @@
+Title: Suprematist Composition
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Kazimir Malevich
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1916-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"29eec86f-155c-4cc5-bde5-09cb9a482e6b","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ff72818a-7c4c-4717-9053-87ea92903145","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"2d569b5c-ffb5-4fe6-974a-2eee867f5927","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1c25dd94-2d4b-4bc0-bab9-633ef975f114","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"52d8e5b5-a17f-4ecf-9757-20d1545d04d0","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"bc66fb4e-bac4-4a20-9474-ede7319cbe37","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: QXvm6ObH5Y8aERnC

@@ -1,0 +1,61 @@
+Title: Aaron
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Harold Cohen
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1972-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"fd29e481-a0f4-4ff3-87d5-9973fb01c52e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"e8593c71-ea3d-4742-9ead-685cc4b51b5f","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"9e551b91-b675-4984-bb44-62a2adedefe4","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"0c8b8d3d-4360-41f4-a8b1-1b7358c7e085","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"3b4c9523-04db-4934-bc23-f5a046abd705","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"b5d75f11-cfc5-4a0a-bce5-b58f6155d0d0","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 5s4FK96YaygOj4PL

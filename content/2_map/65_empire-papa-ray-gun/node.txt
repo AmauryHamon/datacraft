@@ -1,0 +1,61 @@
+Title: "Empire" ("Papa") Ray Gun
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Claes Oldenberg
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1959-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"2cf329c0-32e6-464b-9ec0-4e1f7e9f80d0","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ada09f91-2892-4ced-afee-feb462f395b1","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"7868603d-dc1b-48bb-8966-b4509a491015","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"08cda129-d2b1-4c72-b3c9-03147515521c","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9b3b010a-fcc0-4bf7-9b9b-cee78a08027d","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"4efadd70-fa19-416b-9efd-199ec8057f61","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: VL76kQcowcvnRxZT

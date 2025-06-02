@@ -1,0 +1,61 @@
+Title: Système Bertillon
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Alphonse Bertillon
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1879-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"b52bcd28-cd0c-42d6-a803-3e117fd4a3e5","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"0df25428-9b3c-4194-a0d6-1806c9fefbaf","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"37f631a0-5e98-4f56-a118-e2f9595daee6","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"a7ae95e5-c44f-4f1e-8298-a5f61b2c97af","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"561828b0-7519-48ce-a6fc-dd18564ccd83","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8fdea76c-a29a-4bdd-999a-ef3193797661","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 8CEWzZfFBySImRAT

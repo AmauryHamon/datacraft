@@ -1,0 +1,61 @@
+Title: GitHub Copilot
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Microsoft
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2021-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"4688b9c9-5254-4160-9ae1-a277a82d3d3a","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"702b7931-5e20-4bbf-885b-7048d7afe5ac","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"ae867265-119a-4bed-b468-3b86644e7d95","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"3b710dfb-9710-4b1b-a9d4-af3114361d62","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"ea471ec2-9527-482e-8198-dcd340b6b347","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"9606ecd5-a377-4226-a56b-49cf4dff5609","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: kKrd4VcyxnLswuQz

@@ -1,0 +1,61 @@
+Title: Fanon (Even the Dead Are Not Safe) – Eigenface
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Trevor Paglen
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2017-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"ee67efe7-9780-4afe-bb7e-a50217472a45","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"0b03452b-c551-4ca3-bdd9-814e8c2311d0","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"1509dced-4a1d-4df0-8db7-140ac891be40","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"b0dd4ff3-be0e-48c6-a420-43f0ecf640c9","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"f5a4e877-6bba-460f-b0ac-4dfdb7d35b07","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"4c6599cc-5988-44d1-9fa7-0e79b83fbbd8","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: Z185IjZaD4J7oMwA

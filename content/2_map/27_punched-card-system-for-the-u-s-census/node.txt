@@ -1,0 +1,61 @@
+Title: Punched-Card System for the U.S. Census
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Herman Hollerith
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1890-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"0b2ae058-c1a6-4e40-b7bc-e031e2133299","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"234276f7-855b-435e-a44d-db45f3f499df","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"0e2f5306-c5c9-4f2c-85cd-2323650018a6","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"c183c693-fac3-47ca-8c36-f8dc80f09d5d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"c3879eea-9f66-4a1a-ada2-c5c7b7aaf5a2","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"589fd7b1-b6fb-4971-a402-ab2c0812e2a1","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: adx3Soe5ULf8iTFu

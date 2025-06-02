@@ -1,0 +1,61 @@
+Title: Deep Blue
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: IBM, Murray Campbell, et al.
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1996-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"f552d92f-b3e0-4100-925c-5de801c2c75e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ce88b4d5-f5ef-4871-a090-23f05fc0b3ec","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c7024fc6-5474-4751-ae1c-710a9610c147","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"57cfa213-5967-4908-889d-ff3430fb8c45","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"743ce63b-d7f0-4bba-9dff-eef59bf8ecee","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"e858ef99-1658-44d2-a0a4-92f4e5319952","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: e1TF0fxafS19MP0n

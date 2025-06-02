@@ -1,0 +1,61 @@
+Title: Game of Life
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: John Horton Conway
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1970-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"c6802bc8-6cff-402e-8118-a358f890f6b0","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"5d53cdc7-824f-464f-85b9-5ff345dfb3af","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"403038ba-596b-4b24-9c4f-8a6ef446364a","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"29394a2e-905f-4579-a77c-9f98601319a0","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"e9139db5-6d72-46d6-9ee9-f29e4c5ddec1","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"fb123cdf-4fcb-4e3a-bea7-af5f97543461","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: A1jM95VMWCn4Vmao

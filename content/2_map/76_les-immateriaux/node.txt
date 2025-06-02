@@ -1,0 +1,61 @@
+Title: Les immatériaux
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Jean-François Lyotard, Theirry Caput, et al.
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1985-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"9061ef8b-b5f8-4fea-ae92-615d887c58b7","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"2bf16ba4-961f-44e8-a760-6685d1510055","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"847f8a67-261f-4c6b-85fe-569699a30f78","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"52a79e63-dfe8-4e92-8576-1d19ca666735","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5a2525fb-c9b9-428f-af8b-e407d4f8fbcc","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"7689b3c0-6c3e-4957-8868-59982a344353","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 5t78y2VhYMoJdIqg

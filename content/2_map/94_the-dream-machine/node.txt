@@ -1,0 +1,61 @@
+Title: The Dream Machine
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Brion Gysin & Ian Sommerville
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1960-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"16eb4286-e6c0-4bc0-9003-c8896769d912","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"f85f9e74-7bf3-4c63-9841-470806283a0b","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"b775c5ec-de59-438f-8a2f-77f9e4cd98d0","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"3fb9e55b-5f0f-4a1b-9013-f06d53439d56","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"263c2458-b21c-49d4-b6fd-67ac09dc8a36","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"31f61250-4418-42db-b53b-202ed502dcb6","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: iBNtv28knG9I9MM9

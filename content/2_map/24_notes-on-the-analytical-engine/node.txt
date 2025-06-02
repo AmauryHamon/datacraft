@@ -1,0 +1,61 @@
+Title: Notes on the Analytical Engine
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Ada Lovelace
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1843-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"30954095-6efe-47ee-b6ab-60b73a082a32","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"59932484-3d3c-4126-93aa-69b54e07afcd","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"b2fbea8f-984d-4369-b100-b9e23d21dd0b","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"fd01935a-9cac-423f-b363-d1b9de2b229d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"3ba4741a-1457-44f1-b929-2eac247e75d8","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"7b7c534a-fb10-46b1-b5ae-bc3bdd42f705","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: vbdykC7t1o013SCc

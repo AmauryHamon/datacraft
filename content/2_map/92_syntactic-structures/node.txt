@@ -1,0 +1,61 @@
+Title: Syntactic Structures
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Noam Chomsky
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1957-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"dc2b30ed-4c46-4e28-abaa-491dc76ba1ec","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"9de3d798-0470-43ef-b0ca-1a8298b51218","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"5d256c01-d761-4fac-b0f2-dcfb29c1bdbf","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"fb328515-ae63-406f-8347-54fd16c8fde3","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"0449aa1d-7ee4-4ad1-96b8-4cae89fe60a5","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"a7c30a05-d068-4cac-a8c6-6cf41ca7ba29","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 9wYU0vhyUiJU3Msj

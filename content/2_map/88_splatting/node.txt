@@ -1,0 +1,61 @@
+Title: Splatting
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Lee Westover
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1990-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"4d8adfe0-8a0a-4040-b9d6-94bff7b74b8b","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"ffece05d-c7be-4192-8444-62076ad85abe","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"adfc8e15-f76b-4a03-a8e3-472733e75ac8","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"64c2df31-a654-4561-9635-97096cab842e","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5043502b-82be-4e58-97a2-ae066c978e58","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"9be8b640-21f8-4ec0-96e2-675a207f32f1","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: lQtlvD16e1dsuPxV

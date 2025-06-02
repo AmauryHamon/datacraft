@@ -1,0 +1,61 @@
+Title: Catalog
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: John Whitney
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1961-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"5e6cae59-4e75-43b4-949e-07ab2f970c33","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"725e49b8-5079-401b-b66a-5a00d70105fd","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"ecede1b3-c1b1-4367-804d-eddc3adb8f6e","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1f7e29e9-7366-4dbb-8cde-c66c977d04bb","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"7ef8528e-4902-45af-9f4b-e6d468aefae3","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"335fbf50-abb8-47b9-9ebc-f4a4136043db","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: t7M8A2BODwrHSB6C

@@ -1,0 +1,61 @@
+Title: Deep Visual Instruments
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Memo Akten
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2021-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"3fa9b747-3a9f-4cc1-b214-d95a7e08127e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"3c30266b-9594-4cdb-9d37-7860ddb7a8bf","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"b7591e1a-bc0b-45f0-b8f9-bdc19d989c2d","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"21133356-d8ed-431b-937e-bd1944b4edc8","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"a220dfde-2db0-49cb-ab4e-f4688351e5dd","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"2d3b53df-0507-46b7-837a-b15ff4ca2caa","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: GSrA7uCfxSdXvt8z

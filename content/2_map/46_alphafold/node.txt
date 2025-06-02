@@ -1,0 +1,61 @@
+Title: AlphaFold
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: DeepMind
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2020-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"490ec289-2a57-4af1-a4e2-714427fcfcc5","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a08f651e-ef49-4377-9c9b-3ed2e0cb62db","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"ef341220-a994-4a0e-82b8-c0773e3221fa","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"dba790ab-0a44-4889-9936-3464dd61864d","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"c4fc762e-27e7-47ba-9fff-002312c76059","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"f81e8590-66d1-476c-9cec-f52bbba62942","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 9czfDJLeYa76Rr1y

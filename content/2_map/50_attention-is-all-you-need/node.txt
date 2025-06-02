@@ -1,0 +1,61 @@
+Title: Attention is All You Need
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Ashish Vaswani, et al.
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2017-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"448b4546-356c-4294-b33f-7cad024b8f2c","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"bd2cf4b5-9394-4511-b38e-7fc98a9b3a74","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"f963131e-555d-42d4-a944-12fd590c8dbe","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"6876e0b0-53b4-40f8-8b55-5e5655ed3696","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5830f3d2-c665-43b6-84e9-5ebe7f8abce0","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"bd213499-7632-4cf5-a237-92d2bc1bf137","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: HIdWfuvyE91AwI0z

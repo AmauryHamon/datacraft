@@ -1,0 +1,61 @@
+Title: Evolved Virtual Creatures
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Karl Sims
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1994-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"148b3d22-c564-4ca9-9628-7668b62df129","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"355e50c6-8ff5-46a4-8fe9-2e64e64fd0da","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"194ff03b-e0ac-4d2a-8a20-d11c96c9bbfe","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"0c459b66-7d12-4489-bac0-cbbb25600ab1","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"f45bb518-1ebf-416a-8d04-dc1fa3794f61","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"9ddf6c31-a1f2-4cae-96f8-a016b058834e","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 4fwwofiFii5PbGEg

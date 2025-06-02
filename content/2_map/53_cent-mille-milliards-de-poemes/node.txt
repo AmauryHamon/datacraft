@@ -1,0 +1,61 @@
+Title: Cent Mille Milliards de Poèmes
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Raymond Queneau
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1961-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"56eccdbe-d3c3-491d-96ac-099a1cfcc2a8","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"02b09143-7c51-42a8-8359-f0e87c8aeb24","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"6425ba77-9693-4c59-a58f-db9cae13f4da","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"c1794da3-7440-4bec-a771-bd3c6c8784c2","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5d021f7e-ef74-4d2b-b024-af4a3c4f9ea7","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"68d15c78-8e9f-43e9-a882-6f46a8652586","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: UkmVRFrKaNmWTK3s

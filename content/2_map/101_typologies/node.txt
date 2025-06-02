@@ -1,0 +1,61 @@
+Title: Typologies
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Hilla & Bernd Becher
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1957-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"82e9e142-bfc0-44b1-9c67-e2ca246dbad0","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"dfcbb612-a96c-459f-bbac-d505bab6930d","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"711353d2-0d91-4f86-894d-c527b694cb38","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"7fd53166-3b5a-42f8-ac3c-ef12a3539a79","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"ebb0e39c-d595-43a3-8d29-3d79e494c4b0","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"cc3d3562-75a0-4e07-8131-26f23d1f4ffb","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: zKMUSFQBvB5NTpfK

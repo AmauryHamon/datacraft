@@ -1,0 +1,61 @@
+Title: A New Kind of Science
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Stephen Wolfram
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2002-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"c70e8e08-7863-4830-8497-db40d8cf17ef","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a8b0a07e-ec53-464a-8dd0-0d16730413a8","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"8c5f8d74-3887-42d6-b6a9-8a3cfdd4a637","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"c74884db-bde2-4ad0-aa12-477ccbdd8bf1","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"22ed0b1f-bcc5-42fc-85a7-6db4478f2b80","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"463a8a84-33a0-4250-80eb-10534cf72d3c","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: ssELyM5GSTxQO0I2

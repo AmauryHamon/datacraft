@@ -1,0 +1,61 @@
+Title: Un coup de dés jamais n’abolira le hasard
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Stéphane Mallarmé
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1897-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"47f2e9fa-9d76-4abb-ac6c-8ba06d348354","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"d02d6ec9-3640-413b-92ef-cecdb0bca9bd","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"c0a65169-36ba-4241-81ff-ed5a5bc07bc5","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"a1d14114-47e1-467c-900f-7f5c1bc18faa","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"f055560d-65b9-451e-9c86-6ae1382d9c9e","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"56b3b70f-8a00-4b18-b906-ed21dad79583","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: cli460UILpswap7f

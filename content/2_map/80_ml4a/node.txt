@@ -1,0 +1,61 @@
+Title: ml4a
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Gene Kogan
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2015-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"7d5ce59f-eceb-4b1e-a7b4-af4becd6ec2c","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"c582c129-bbef-4725-811a-41b15f85acb4","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"94929846-ed71-41dd-b170-83d054bc0128","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"a95e422e-35ee-4cca-9cc2-a82c6d98b477","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"f72aad0e-529e-4740-8c9e-57cde5bc6f82","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"8402a295-33db-40ce-afb0-a0df1b1ce2bb","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: iLjj1J5STIICgGZ5

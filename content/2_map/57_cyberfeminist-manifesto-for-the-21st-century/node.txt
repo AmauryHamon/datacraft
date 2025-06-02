@@ -1,0 +1,61 @@
+Title: Cyberfeminist Manifesto for the 21st Century
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: VNS Matrix
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1991-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"83c4ace5-b989-49bc-9dd2-7872a39a4933","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"b9600976-e068-4348-ac6e-8ccb53a6be81","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"f67c5776-e79f-41b0-8982-fa17e68b0298","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"f5116eff-bfb5-446d-8f2f-1846611f1aeb","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"091be0fd-76e8-427a-ae0a-2e3a3df61d24","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"b42d2dcc-e612-4a4f-97ac-9e85f4ad27b6","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: hvkflswsYsbSG6Ag

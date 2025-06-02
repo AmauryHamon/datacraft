@@ -1,0 +1,61 @@
+Title: Wassertürme (Water Towers)
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Hilla & Bernd Becher
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1968-01-01
+
+----
+
+Dateperiodend: 1980-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"08d86bcd-3182-4cc4-b29f-ef12c5568c88","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"5fdc9fc0-59b1-4f51-8686-8fbba23b7b06","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"4f843978-c321-407b-a1ad-1869c39353f1","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"7c5b77ae-56a9-44d4-a74e-4dab84b1c850","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"1028edaf-8724-411e-a35e-919d839ff2a9","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"1d38273c-301c-4be6-932f-a3ffb2208875","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: h8wPhYX356GQSoWT

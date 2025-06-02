@@ -1,0 +1,61 @@
+Title: Reconstructions
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Allison Parrish
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2020-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"4bb7a63c-6c6b-4921-9741-b0aaebce6553","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"a84c5597-30c7-43ae-8b1d-62286bae6303","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"aafbab82-56e7-4284-a338-e5fba6612b19","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"93d2d93c-5441-4545-8f29-3e87de5a97c5","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9f2cd150-996f-4c13-af56-474fc89ad69f","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"f5254172-1651-4e91-85f7-e1f964690126","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: wmG2z6HuHywDw13K

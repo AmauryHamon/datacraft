@@ -1,0 +1,61 @@
+Title: The Great Red Dragon paintings
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: William Blake
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: text
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: c.1805
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"9d97765e-fad2-47c2-bb39-74c4fa2c34b5","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"420c6f3e-74f5-4dbe-abba-365f8635a133","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"1b77139c-3491-4069-a3b4-7bc3bafcd6ad","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"19cfca4b-e390-42ed-8a24-38c8cb4c1ee1","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"a44e194d-79b0-4ddb-a3a4-59d018ea7208","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"1e386f76-0b2b-4347-b40d-8b20dc78fcee","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: UYm5jVvFWLdJjtoZ

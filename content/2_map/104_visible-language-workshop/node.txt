@@ -1,0 +1,61 @@
+Title: Visible Language Workshop
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Muriel Cooper
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1975-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"73320552-7d57-4f3f-98a1-3638d80269f9","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"9ad1895d-83f2-478d-a27d-8b5d0b084743","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"17417e60-c5c1-4537-8d7c-64f3923c6f7d","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"21f84288-6537-46a7-99c9-71666cfef367","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"397e209b-2c80-4b63-b948-d419f53c1f45","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"905461fa-6ca7-4213-9961-d1787924bd87","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 3yc1JCYME54DAtNB

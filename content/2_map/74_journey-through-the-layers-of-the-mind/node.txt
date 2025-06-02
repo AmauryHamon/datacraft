@@ -1,0 +1,61 @@
+Title: Journey through the layers of the mind
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Memo Akten
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2015-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"50a26e79-7463-482d-bf52-6fe613590a41","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"e18111ec-a9ae-40a0-8cf5-c49f3e7e5362","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"07cf9a4a-7b5e-41b1-9b59-00bfb7fa1363","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"b34ac585-6d6b-4b92-bcd6-9de9cf1e14d4","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5de5736b-c4b0-4423-8879-7d6053c2f643","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"cbde838b-037e-4168-8458-33ac865785ed","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: JvI7iEi2JoLK6uTS

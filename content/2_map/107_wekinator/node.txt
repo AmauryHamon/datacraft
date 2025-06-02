@@ -1,0 +1,61 @@
+Title: Wekinator
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Rebecca Fiebrink
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 2009-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"715af622-d0bb-4b1e-8781-be62f607356e","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"87521e25-4d06-4aa5-921a-f79365e09973","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"5651a308-efcc-4a70-9a47-46aa98c4ffe6","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"64decf80-c05a-4dd9-b190-b1773c9cd9fd","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"087bcbe9-b6c6-4673-9719-356066cb86e1","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"51719ad9-da2b-49a4-a91b-6c487825836f","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: AdmmBLWXnrOUnDPN

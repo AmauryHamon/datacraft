@@ -1,0 +1,61 @@
+Title: Interruptions
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Vera Molnar
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: period
+
+----
+
+Dateperiodstart: 1968-01-01
+
+----
+
+Dateperiodend: 1969-01-01
+
+----
+
+Datetext: 
+
+----
+
+Year: 
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"019fb8ed-0a2e-4f41-b0f8-d2c22a73d8d5","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"f69affe7-16d8-423e-b070-71b2a74a4559","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"e42523b6-b71e-4a08-ac06-e580fc8347d5","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1bc033bc-3769-4c2c-a87a-137eacddf648","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"5e12a57d-80a3-4916-82b4-65d8fa860343","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"769ade73-9fae-4f04-8214-e111e234a605","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: yZ5szIMxfjYmdLZ8

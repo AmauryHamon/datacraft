@@ -1,0 +1,61 @@
+Title: Artificiata I
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Manfred Mohr
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1970-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"b7aa4179-9235-41d6-86d0-7dfd7008f693","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"9c445e19-d320-4919-9c8a-421393c1188a","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"f04d1ea7-8d17-440d-8165-e6739fdd7922","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"1f0d9189-b62b-427b-b05b-d54441fcfe06","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"9e6ae18b-a5d3-4f9d-a0d9-96d64cc93bf8","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"5e8abf24-ddca-40d0-991f-6b2014dfb254","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: 9pyf6oANFWVOpJOi

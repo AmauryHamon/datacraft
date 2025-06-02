@@ -1,0 +1,61 @@
+Title: TV Garden
+
+----
+
+Category: Historical
+
+----
+
+Cover: 
+
+----
+
+Authors: Nam June Paik
+
+----
+
+Xpos: 
+
+----
+
+Ypos: 
+
+----
+
+Datetype: year
+
+----
+
+Dateperiodstart: 
+
+----
+
+Dateperiodend: 
+
+----
+
+Datetext: 
+
+----
+
+Year: 1974-01-01
+
+----
+
+Concept: 
+
+----
+
+Tools: 
+
+----
+
+Context: 
+
+----
+
+Blocks: [{"content":{"level":"h2","text":"Synopsis"},"id":"cf864bfb-95fe-4710-8cc8-91adb932a206","isHidden":false,"type":"heading"},{"content":{"text":"Synopsis content"},"id":"d7eeffdf-b35c-4e3f-8aa0-1c994aa2b5a8","isHidden":false,"type":"text"},{"content":{"input":"","formula":"","output":""},"id":"15a39bff-b057-404b-941e-34a19602fd4b","isHidden":false,"type":"input-formula-output"},{"content":{"text":"Additional text content"},"id":"859309eb-3949-4f58-91ef-c20589dbcc71","isHidden":false,"type":"text"},{"content":{"links":[{"url":"https://example.com","text":"Example link"}]},"id":"578dc0f5-65a1-4d51-be22-35b2c36958f2","isHidden":false,"type":"link-list"},{"content":{"links":[{"url":"","text":"Example link"}]},"id":"71cadcf9-0aea-4b10-bb98-2117ce6d0d15","isHidden":false,"type":"node-relation"}]
+
+----
+
+Uuid: dcW8NV3RNlWik3at
