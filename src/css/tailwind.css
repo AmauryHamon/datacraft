@@ -48,6 +48,11 @@ body {
         @apply mb-5 leading-[1.1]
     }
 }
+.block-type-list{
+    & li {
+        @apply text-base mb-5 leading-[1.1] list-disc
+    }
+}
 .block-type-definition-list{
     @apply font-normal;
 }
