@@ -1,11 +1,23 @@
+<?php
+$category = get('c'); // e.g., 'Historical'
+$nodes = $page->children()->listed();
+
+// Filter the nodes by category if one is set
+if ($category) {
+    $nodes = $nodes->filterBy('category', $category);
+    if ($category === 'Historical') {
+        $nodes = $nodes->sortBy('year', 'desc');
+    }
+}
+?>
 <?php if ($category !== 'Historical'): ?>
     <?php snippet('axis') ?>
     <?php snippet('axis-labels') ?>
 <?php endif ?>
     <!-- <button class="fixed z-50 top-5 left-1/2 -translate-x-1/2" @click="filterOpen = !filterOpen">Filters</button> -->
-    
+
     <?php if ($page->children()->isNotEmpty()): ?>
-        <div class="pointer-events-none <?= $category === 'Historical' ? 'mt-10 sm:mt-40 relative grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
+        <div class="pointer-events-none <?= $category === 'Historical' ? 'mt-10 sm:mt-40 relative grid grid-cols-1  gap-6 p-6 z-[40]' : 'fixed inset-0 w-full h-screen z-40' ?>">
 
             <?php foreach ($nodes->values() as $index => $node): ?>
                 <?php if($category === 'Historical'):?>
@@ -29,7 +41,8 @@
                                 <h4 class="text-2xl/ultratight"><?=$node->title()?></h4>
                                 <div class="text-base flex flex-wrap gap-2">
                                     <span><?=$node->authors()?></span>
-                                    <span><?=$node->date()?></span>
+                                    <?php snippet('nodedate', ['page'=>$node])?>
+                                    
                                 </div>
                                 <ul class="flex flex-wrap text-xs gap-1">
                                     <?php if ($node->concept()->isNotEmpty()): ?>

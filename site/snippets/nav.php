@@ -44,21 +44,41 @@
         x-transition:leave-end="opacity-0 scale-100">
 
         <ul class="relative w-full grid grid-cols-1 sm:grid-cols-2 max-h-[90vh] my-[5vh] sm:max-h-none place-content-center sm:place-content-around justify-items-stretch sm:content-stretch text-3xl sm:text-4xl leading-[1]">
-            <?php foreach ($site->children()->listed() as $subpage): ?>
-                <li class="flex justify-center items-center">
-                    <a
-                        x-link
-                        href="<?= $subpage->url() ?>"
-                        data-text="<?= $subpage->title() ?>"
-                        @click="
-                        loadPage('<?= $subpage->uid() ?>');
-                        menuOpen = !menuOpen
-                    "
-                        class="hover:drop-shadow-logo transition-all duration-300 ease-in-out">
-                        <?= $subpage->title() ?>
-                    </a>
-                </li>
-            <?php endforeach; ?>
+            
+            <?php $about = $site->find('about'); ?>
+            <?php $map = $site->find('map'); ?>
+            <li class="flex items-center justify-center">
+                <a  x-link 
+                    @click="loadPage('<?= $about->uid() ?>'); menuOpen = !menuOpen" 
+                    href="<?= $about->url() ?>">
+                    
+                    About
+                </a>
+            </li>
+            <li class="flex items-center justify-center">
+                <a  x-link 
+                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
+                       :href='"/map?c=Project"'
+                         :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">
+                    Projects
+                </a>
+            </li>
+            <li class="flex items-center justify-center">
+                <a  x-link 
+                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
+                       :href='"/map?c=Historical"'
+ :class="$router.query.c === 'Historical' ? 'text-green drop-shadow-logo' : 'text-black'">
+                    Legacy
+                </a>
+            </li>
+            <li class="flex items-center justify-center">
+                <a  x-link 
+                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
+                       :href='"/map?c=Recipe"'
+ :class="$router.query.c === 'Recipe' ? 'text-green drop-shadow-logo' : 'text-black'">
+                    Recipes
+                </a>
+            </li>
         </ul>
 
         <div class="fixed left-0 bottom-0 z-50 w-full">
