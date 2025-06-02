@@ -51,3 +51,11 @@ columns:
         type: pages
         template: node
         text: "{{page.title}} | {{page.date}}"
+  - width: 1/1
+    sections:  
+      drafts:
+        label: Drafts
+        type: pages
+        status: draft
+        template: node
+        text: "{{page.category}} | {{page.title}} | {{page.date}}"

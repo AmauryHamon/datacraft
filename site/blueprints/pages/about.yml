@@ -7,5 +7,7 @@ fields:
       - heading
       - text
       - definition-list
+      - team-list
+      - list
 
   

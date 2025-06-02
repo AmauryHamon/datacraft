@@ -1,0 +1,16 @@
+name: Team List
+icon: list-bullet
+fields:
+  items:
+    label: Membres
+    type: structure
+    fields:
+      term:
+        label: Term
+        type: text
+      bio:
+        label: Bio
+        type: textarea
+      role:
+        label: Role
+        type: textarea
