@@ -57,25 +57,25 @@
             </li>
             <li class="flex items-center justify-center">
                 <a  x-link 
-                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
-                       :href='"/map?c=Project"'
-                         :class="$router.query.c === 'Project' || !$router.query.c ? 'text-green drop-shadow-logo' : 'text-black'">
+                    @click="loadPage('<?= $map->uid() ?>?c=Project'); menuOpen = !menuOpen; filterMap" 
+                       href='<?= $map->url() ?>?c=Project'
+                >
                     Projects
                 </a>
             </li>
             <li class="flex items-center justify-center">
                 <a  x-link 
-                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
-                       :href='"/map?c=Historical"'
- :class="$router.query.c === 'Historical' ? 'text-green drop-shadow-logo' : 'text-black'">
+                    @click="loadPage('<?= $map->uid() ?>?c=Historical'); menuOpen = !menuOpen; filterMap" 
+                    href='<?= $map->url() ?>?c=Historical'
+                >
                     Legacy
                 </a>
             </li>
             <li class="flex items-center justify-center">
                 <a  x-link 
-                    @click="loadPage('<?= $map->uid() ?>'); menuOpen = !menuOpen; filterMap" 
-                       :href='"/map?c=Recipe"'
- :class="$router.query.c === 'Recipe' ? 'text-green drop-shadow-logo' : 'text-black'">
+                    @click="loadPage('<?= $map->uid() ?>?c=Recipe'); menuOpen = !menuOpen; filterMap" 
+                    href='<?= $map->url() ?>?c=Recipe'
+                >
                     Recipes
                 </a>
             </li>
